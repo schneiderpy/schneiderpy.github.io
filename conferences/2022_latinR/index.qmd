@@ -1,0 +1,23 @@
+---
+title: "Analizando la estructura de mercado, competencia y comportamiento con R y *concstats*"
+subtitle: "**LatinR**, Conferencia Latinoamericana sobre uso de R en investigacion, Virtual, Montevideo - Uruguay"
+author: Andreas Schneider
+date: 2022-10-10
+#slug: covid-crime
+image: featured.jpg
+categories:
+  - conference 
+  - research
+  - R
+  - software
+  - spanish
+
+links:
+- icon: file-richtext-fill
+  name: Publication
+  
+toc: false 
+---
+
+## Description
+

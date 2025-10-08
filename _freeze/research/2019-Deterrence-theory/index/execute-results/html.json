@@ -1,0 +1,15 @@
+{
+  "hash": "745e6fd789a0ff593f92296bad49b8db",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases\"\nauthor: Andreas Schneider\ndate: 2019-01-13\nslug: deterrence-theory\n#image: featured.png\ncategories:\n  - research \n  - crime\n  - deterrence theory\n  - white-collar crime\n  - english\nsubtitle: Study analyzing deterrence theory in Paraguay using fraud and violation of trust cases.\n\n---\n\n[{{< iconify uiw:file-pdf >}} PDF](https://www.mdpi.com/2076-0760/8/1/23){.btn .btn-outline-primary}\n[{{< iconify carbon:generate-pdf >}} PDF](https://www.mdpi.com/2076-0760/8/1/23/pdf?version=1547359570){.btn .btn-outline-primary}\n[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:u5HHmVD_uO8C){.btn .btn-outline-primary}\n\n\n\n## Abstract\n\n\n\n::: {.cell}\n\n:::\n\n\nThis research paper contributes to the literature of deterrence theory in general, and in particular, with respect to white-collar crime, offering valuable insight by using a unique dataset of fraud and violation of trust incidents within the jurisdiction of Paraguay. Descriptive evidence shows a clear and continuous misallocation of funds and human capital, therefore providing less efficient services for the public. Regression analysis suggests that clearance rate exerts a highly significant effect in deterring fraud, but the results are not clear for violation of trust incidents. Despite the limitations of available data, results confirm the deterrence theory in Paraguay. However, for more than two-thirds of victims, not even an attempt was made to seek justice. As a side-result, it seems that a soft-on-crime strategy, induced from the former German penal code, has led to an increasing share of pre-trial diversion, therefore enhancing white-collar crimes like fraud and violation of trust, due to impunity.\n\n\n## Featured article figure\n\n\n\n::: {#fig-1 .cell .fig-cap-location-margin}\n::: {.cell-output-display}\n![Notes: All figures correspond to fraud cases; Backlog is calculated since 2001; a controlled case is a case with an asigned procedural status (e.g., investigation, accused, desestimated etc.); Turnover ratio measures the relationship between resolved cases and unresolved cases at the end of a period; Disposition time (in days) measures the theoretical time necessary for a pending case to be solved in court in the light of the current pace of work.](featured.png){#fig-1 width=692}\n:::\n\nEfficiency of the judicial system (fraude cases) - Part 2\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

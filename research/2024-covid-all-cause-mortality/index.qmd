@@ -1,0 +1,42 @@
+---
+title: "The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022"
+author: Andreas Schneider
+date: 2024-12-27
+slug: covid-all-cause-mortality
+#image: featured.png
+categories:
+  - research
+  - covid-19
+  - mortality
+  - public policy
+  - english
+subtitle: Study evaluating the impact of public policies during the first lockdown on all-cause mortality in Paraguay.
+
+---
+
+[{{< iconify uiw:file-pdf >}} PDF](https://revistascientificas.upacifico.edu.py/index.php/PublicacionesUP_Salud/article/view/650/1069){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:u-x6o8ySG0sC){.btn .btn-outline-primary}
+
+
+## Abstract
+
+
+```{r}
+pubs <- readxl::read_xlsx(here::here("assets/pubs.xlsx"))
+```
+
+`r pubs$abstract_note[[2]]`
+
+## Featured article figure
+
+
+```{r}
+#| label: fig-1
+#| fig-cap: "Monthly all-cause mortality predictions (dashed line) vs. fitted counts (black line). The Shadowed area indicates 95% Bayesian credible intervals. The vertical line indicates the start of the pandemic. The below plot shows the cumulative excess deaths."
+#| fig-cap-location: margin
+
+knitr::include_graphics("featured.png")
+```
+
+
+

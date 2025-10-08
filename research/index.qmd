@@ -1,0 +1,45 @@
+---
+title: "Publications" 
+description: |
+  This is home for my research publications, each linked with<br>
+  accompanying preprints, posters, and/or news pieces.
+listing: 
+  contents: 
+    - "**/*/index.qmd"
+  sort: "date desc"
+  categories: false
+  type: default
+# sort-ui: false
+# filter-ui: false
+  fields: [title, subtitle, author, categories, date]
+image-align: left
+# include-back-link: true
+toc: false
+#toc-location: right
+
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/template.css">
+resources:
+  - ../assets/template.css
+---
+
+<center>
+
+For more information use the following links:
+
+[{{< iconify bi:github >}} Github](https://github.com/schneiderpy){.btn .btn-outline-primary}
+[{{< iconify academicons:orcid >}} ORCID](https://orcid.org/0000-0001-5630-1097){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?hl=en&user=SfuAT-QAAAAJ&view_op=list_works&sortby=pubdate){.btn .btn-outline-primary}
+
+<br>
+
+<u>Underline</u> indicates advisee; * graduate student, **undergraduate student
+
+</center>
+
+<br>

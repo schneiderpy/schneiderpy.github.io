@@ -1,0 +1,34 @@
+---
+title: "Andreas Schneider"
+subtitle: "Consultant | Data Scientist"
+image: assets/img/as.jpg
+
+about: # https://quarto.org/docs/websites/website-about.html
+  #id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/schneiderpy
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aschneiderpy/
+    - icon: google scholar
+      text: Google scholar
+      href: https://scholar.google.com/citations?hl=en&user=SfuAT-QAAAAJ&view_op=list_works&sortby=pubdate
+      
+
+---
+
+
+A little bit about me and my life.
+
+## Education
+
+University of XYZ, City \| Location \| Sept 20XX - June 20XX
+
+## Experience
+
+Workplace \| Job title \| April 20XX - present

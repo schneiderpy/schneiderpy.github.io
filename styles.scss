@@ -1,0 +1,81 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+
+
+/* From https://github.com/andrewheiss/ath-quarto/blob/main/html/ath.scss */
+
+// Define font-size
+@import url("https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@200;300;400;500;600;700&display=swap");
+//@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+//@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+/* Fonts */
+
+$font-family-sans-serif: STIX;
+//$font-family-sans-serif: STIX;
+//$title-font-family: 'STIX', serif;
+$body-font-family: 'STIX', serif;
+$body-font-weight: 400;
+$font-size-base: 1.2rem;
+
+
+// Colors //
+$white:    #ffffff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #868e96 !default;
+$gray-700: #495057 !default;
+$gray-800: #373a3c !default;
+$gray-900: #212529 !default;
+$black:    #000000 !default;
+
+$blue:    #2780e3 !default;
+$bluegray: #4774a1 !default;
+$oldblue: #050A49 !default;
+$indigo:  #6610f2 !default;
+$purple:  #170C3A !default;
+$pink:    #A52C60 !default;
+$red:     #CF4446 !default;
+$orange:  #EE6A24 !default;
+$light-orange:  #FB9E07 !default;
+$yellow:  #F6D645 !default;
+$gold:    #FFD133 !default;
+$green:   #118230 !default;
+$teal:    #068194 !default;
+$cyan:    #3093CF !default;
+
+$primary:   $oldblue !default;          //navbar
+$secondary: $white !default;
+$success:   $green !default;
+$info:      $cyan !default;
+$warning:   $orange !default;
+$danger:    $red !default;
+$light:     $white !default;
+$dark:      $black !default;
+
+
+// Links
+$link-color: $cyan !default;
+$link-decoration: none !default;
+$link-hover-color: $red !default;
+$link-hover-decoration: underline !default;
+
+
+// Navbar
+$navbar-bg: $oldblue !default;
+$navbar-fg: $white !default;
+$navbar-hl: $light-orange !default;
+
+// Footer
+$footer-bg: $oldblue !default;
+$footer-fg: $white !default;
+
+$btn-bg: if(variable-exists(secondary), $secondary, #6c757d) !default;
+$btn-fg: theme-contrast($btn-bg, $btn-bg) !default;

@@ -1,0 +1,36 @@
+# Metadata for all Article pages
+
+
+# Date format
+date-format: "MMMM YYYY"
+
+# Enable banner style title blocks
+title-block-banner: "#0d6aa8"
+
+# Default for table of contents
+toc: true
+toc-title: Contents
+toc-location: right
+
+
+# Default knitr options
+execute:
+  echo: false
+  message: false
+  warning: false
+  freeze: true
+
+# Default lightbox options
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+
+#include-back-link: true
+
+format:
+  html:
+    link-external-newwindow: true
+  #   template-partials:
+  #     - ../assets/title-block.html

@@ -1,0 +1,38 @@
+---
+title: "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas"
+author: Andreas Schneider
+date: 2024-12-02
+slug: covid-crime
+#image: featured.png
+categories:
+  - research 
+  - covid-19
+  - criminology
+  - public policy
+  - spanish
+subtitle: Study evaluating the impact of public policies during the first lockdown on streetcrime in two Latin American capitals.
+
+---
+
+[{{< iconify carbon:generate-pdf >}} PDF](https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/download/9800/8648){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:IjCSPb-OGe4C){.btn .btn-outline-primary}
+
+
+## Abstract
+
+El repentino estallido de la pandemia de COVID-19 afectó a la vida cotidiana de las  personas en todo el mundo. Este artículo utilizó datos semanales de dos capitales  sudamericanas, Asunción y la Ciudad de Buenos Aires, entre 2016 y la primera cuarentena total  en 2020 para evaluar el impacto directo de las políticas públicas, como el distanciamiento social  y las órdenes de no salir de casa, en la delincuencia callejera. Para prever la delincuencia en  años anteriores se utilizaron modelos de medias móviles integradas autorregresivas estacionales  (SARIMA). Se utilizaron predicciones contrafactuales de estos modelos para comparar las  frecuencias previstas y las reales. Los resultados muestran que la delincuencia callejera ha  experimentado reducciones significativas de dos dígitos. Aunque con reducciones  significativas, los resultados para Asunción son volátiles y no estables, mientras los resultados  para Buenos Aires se destacan por su rápido y estable descenso de la delincuencia callejera. El  resultado puede atribuirse a una mayor obediencia a las normas durante la cuarentena total, en  combinación con un mejor abastecimiento de las necesidades básicas. Cabe suponer que las  causas de la delincuencia callejera no han cambiado.
+
+
+
+## Featured article figure
+
+```{r}
+#| label: fig-1
+#| fig-cap: "Frequency of thefts during the pandemic (black line) and their counterfactual estimates (dashed line) without the public policy applied."
+#| fig-cap-location: margin
+
+knitr::include_graphics("featured.png")
+```
+
+
+

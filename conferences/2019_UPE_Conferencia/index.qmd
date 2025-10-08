@@ -1,0 +1,22 @@
+---
+title: "Teoria de la disuasion en el sistema judicial de Paraguay: Explorando casos de estafa y lesion de confianza."
+subtitle: Conference, Universidad Privada del Este, Asuncion
+author: Andreas Schneider
+date: 2019-08-12
+#image: featured.png
+categories:
+  - research 
+  - covid
+  - criminology
+  - public policy
+  - spanish
+lightbox: true
+links:
+- icon: pencil-fill
+  name: Related blog post
+  #url: https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/view/9800
+toc: false 
+---
+
+## Description
+

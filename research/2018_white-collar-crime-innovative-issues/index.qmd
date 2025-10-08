@@ -1,0 +1,45 @@
+---
+title: "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016"
+author: Andreas Schneider
+date: 2018-05-31
+slug: white-collar-crime
+image: featured.png
+categories:
+  - research 
+  - crime
+  - white-collar crime
+  - time series analysis
+  - english
+subtitle: Study analyzing white-collar crime in Paraguay using fraud and violation of trust cases.
+
+---
+
+[{{< iconify uiw:file-pdf >}} PDF](http://www.iiass.com/index.php?option=com_content&view=article&id=1079){.btn .btn-outline-primary}
+[{{< iconify carbon:generate-pdf >}} PDF](http://www.iiass.com/pdf/IIASS-2018-no2-art7.pdf){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:9yKSN-GCB0IC){.btn .btn-outline-primary}
+
+
+
+## Abstract
+
+
+```{r}
+pubs <- readxl::read_xlsx(here::here("assets/pubs.xlsx"))
+```
+
+`r pubs$abstract_note[[9]]`
+
+
+## Featured article figure
+
+
+```{r}
+#| label: fig-1
+#| fig-cap: "White collar crime Paraguay: 2000 - 2016"
+#| fig-subcap: "The data show a clear non-linear series with no consistent trend."
+#| fig-cap-location: margin
+#| fig-width: 100
+
+knitr::include_graphics("featured.png")
+```
+

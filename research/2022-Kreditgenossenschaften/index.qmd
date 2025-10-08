@@ -1,0 +1,39 @@
+---
+title: "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay"
+author: Andreas Schneider
+date: 2022-03-01
+slug: credit-coops
+#image: featured.png
+categories:
+  - research 
+  - credit coops
+  - market structure
+  - competition
+  - german
+description: 'Large credit coops in Paraguay'
+subtitle: Study analyzing the market structure and competition of Paraguay's large credit cooperatives.
+
+---
+
+[{{< iconify uiw:file-pdf >}} PDF](https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2022-0002/html){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:d1gkVwhDpl0C){.btn .btn-outline-primary}
+
+
+## Abstract
+
+Measures of concentration and competition in the financial sector are important to determine public policies. However, cooperatives, and in particular in the context of small developing countries are largely ignored in economic literature. The empirical analysis is descriptive due to data availability and analysis the loan market of large credit cooperatives. We use a paired sample, selected according to the concentration principle, for which we calculate static concentration measures. Despite the unrepresentative data situation, the results are indicative and offer a first starting point for institutions and cooperatives. Results show that, in general, the cooperative system is highly concentrated, and the loan market is in the hands of two cooperatives. The participation of small cooperatives has dropped to an insignificant level. It seems that market concentration is related to a continuous internal migration. The loan market of large financial cooperatives is not concentrated, however, most loan modalities are highly concentrated, some are competitive and some are not. There is no indicative evidence of market abuse of the three largest credit cooperatives.
+
+
+## Featured article figure
+
+```{r}
+#| label: fig-1
+#| fig-cap: "Evolution of the Herfindahl-Hirschman Index (HHI) - Loans."
+#| fig-subcap: "The index is calculated based on the total lending volume of credit, production, and other cooperatives. (Source: own calculations. Data: INCOOP)"
+#| fig-cap-location: margin
+#| fig-hight: 300
+
+knitr::include_graphics("featured.png")
+
+```
+

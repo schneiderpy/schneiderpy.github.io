@@ -1,0 +1,44 @@
+---
+title: "concstats: Market Structure, Concentration and Inequality Measures, with R"
+author: Andreas Schneider
+date: 2023-09-29
+slug: concstats
+#image: featured.png
+categories:
+  - research 
+  - credit coops
+  - market structure
+  - competition
+  - english
+description: 'Software manual'
+subtitle: Research software to define market structures and concentration in a given market.
+
+---
+
+[{{< iconify uiw:file-pdf >}} PDF](https://joss.theoj.org/papers/10.21105/joss.05885){.btn .btn-outline-primary}
+[{{< iconify carbon:generate-pdf >}} PDF](https://www.theoj.org/joss-papers/joss.05885/10.21105.joss.05885.pdf){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:UeHWp8X0CEIC){.btn .btn-outline-primary}
+
+
+## Abstract
+
+```{r}
+pubs <- readxl::read_xlsx(here::here("assets/pubs.xlsx"))
+```
+
+`r pubs$abstract_note[[3]]`
+
+
+## Featured article figure
+
+```{r}
+#| label: fig-1
+#| fig-cap: "Paired sample of large credit cooperatives."
+#| fig-cap-location: margin
+#| fig-hight: 300
+
+knitr::include_graphics("featured.jpeg")
+```
+
+
+

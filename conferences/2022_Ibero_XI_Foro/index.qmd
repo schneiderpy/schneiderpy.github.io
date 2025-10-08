@@ -1,0 +1,23 @@
+---
+title: "Delitos de Cuello Blanco en Paraguay: Evidencias empíricas y modelo"
+subtitle: "Research Forum, XI Edition, Universidad Iberoamericana, Asuncion"
+author: Andreas Schneider
+date: 2022-11-01
+#slug: covid-crime
+image: cover.png
+categories:
+  - research 
+  - covid
+  - criminology
+  - public policy
+  - spanish
+
+links:
+- icon: file-richtext-fill
+  name: Publication
+  
+toc: false 
+---
+
+## Description
+

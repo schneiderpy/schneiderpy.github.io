@@ -1,0 +1,67 @@
+project:
+  type: website
+  #output-dir: docs              #defaults to _site
+  
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+  
+# Metadata stuff
+pagetitle: "{{< meta title >}} | Andreas Schneider"
+author-meta: "Andreas Schneider"
+
+website:
+  title: "Andreas Schneider"
+  description: "Professional and academic website of Andreas Schneider."
+  back-to-top-navigation: true
+  favicon: assets/img/favicon.png
+  #search: true (defaults to glass)
+  search:
+    location: navbar
+    type: overlay
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  # twitter-card:
+  #   creator: "@aschneiderpy"
+  #   site: "@aschneiderpy"
+  #   image: assets/img/as.png
+  #   card-style: summary  
+  #   image-height: 150
+  #   image-width: 150
+  
+  page-footer:
+    #background: light
+    foreground: "#ffffff"
+    border: true
+    left: "Copyright 2025 Andreas Schneider" 
+    center: "Made with ❤️ and Quarto"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        menu:
+          - aria-label: Publications
+          - href: research/index.qmd
+          - aria-label: Conferences
+          - href: conferences/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+        
+    tools:
+      - icon: github
+        href: https://github.com/schneiderpy
+format:
+  html:
+    theme: styles.scss
+    #theme: [default, styles.scss]
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    #footnotes-hover: true 
+    
+
+

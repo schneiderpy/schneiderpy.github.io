@@ -1,0 +1,36 @@
+---
+title: "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción"
+author: Andreas Schneider
+date: 2020-12-28
+slug: delitos-cuello-blanco
+image: featured.png
+categories:
+  - research 
+  - crime
+  - white collar crime
+  - time series analysis
+  - spanish
+subtitle: Study analyzing and predicting white-collar crime in Paraguay with data from 2000 - 2018 and predicting the next year 2019.
+
+---
+
+
+[{{< iconify uiw:file-pdf >}} PDF](https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/view/5567){.btn .btn-outline-primary}
+[{{< iconify carbon:generate-pdf >}} PDF](https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/download/5567/5184){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:qjMakFHDy7sC){.btn .btn-outline-primary}
+
+
+## Abstract
+
+This article contributes to the white-collar crime literature and to sensitizing the Attorney  General, the Judiciary, the Ministry of Justice and the Ombudsman by analyzing these crimes  with a single set of monthly aggregated data. The time series includes incidents from 2000 to  2018. In addition, an ARIMA model is presented to model the data generating process with the  intention of predicting the next year in the series. The findings show that white-collar crime has  increased more than 236% and the index rose to 830 points, respectively, with a peak in 2015.  Fraud and violation of trust contribute to more than 91% of total incidents. A prediction for  2019 indicates an increase of 11.15% compared to the previous year.
+
+
+## Featured article figure
+
+```{r}
+#| label: fig-1
+#| fig-cap: "White collar crime: 2000 - 2018."
+#| fig-cap-location: margin
+
+knitr::include_graphics("featured.png")
+```

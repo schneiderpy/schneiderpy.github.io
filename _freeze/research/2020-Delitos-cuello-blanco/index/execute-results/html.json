@@ -1,0 +1,15 @@
+{
+  "hash": "14224431213391d796e26f3d014813f5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción\"\nauthor: Andreas Schneider\ndate: 2020-12-28\nslug: delitos-cuello-blanco\nimage: featured.png\ncategories:\n  - research \n  - crime\n  - white collar crime\n  - time series analysis\n  - spanish\nsubtitle: Study analyzing and predicting white-collar crime in Paraguay with data from 2000 - 2018 and predicting the next year 2019.\n\n---\n\n\n[{{< iconify uiw:file-pdf >}} PDF](https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/view/5567){.btn .btn-outline-primary}\n[{{< iconify carbon:generate-pdf >}} PDF](https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/download/5567/5184){.btn .btn-outline-primary}\n[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:qjMakFHDy7sC){.btn .btn-outline-primary}\n\n\n## Abstract\n\nThis article contributes to the white-collar crime literature and to sensitizing the Attorney  General, the Judiciary, the Ministry of Justice and the Ombudsman by analyzing these crimes  with a single set of monthly aggregated data. The time series includes incidents from 2000 to  2018. In addition, an ARIMA model is presented to model the data generating process with the  intention of predicting the next year in the series. The findings show that white-collar crime has  increased more than 236% and the index rose to 830 points, respectively, with a peak in 2015.  Fraud and violation of trust contribute to more than 91% of total incidents. A prediction for  2019 indicates an increase of 11.15% compared to the previous year.\n\n\n## Featured article figure\n\n\n::: {.cell .fig-cap-location-margin}\n::: {.cell-output-display}\n![White collar crime: 2000 - 2018.](featured.png){#fig-1 width=604}\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

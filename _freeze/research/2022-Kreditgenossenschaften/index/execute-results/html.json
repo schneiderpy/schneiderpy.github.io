@@ -1,0 +1,15 @@
+{
+  "hash": "ea62f30e975ad66f5c193b3144034584",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay\"\nauthor: Andreas Schneider\ndate: 2022-03-01\nslug: credit-coops\n#image: featured.png\ncategories:\n  - research \n  - credit coops\n  - market structure\n  - competition\n  - german\ndescription: 'Large credit coops in Paraguay'\nsubtitle: Study analyzing the market structure and competition of Paraguay's large credit cooperatives.\n\n---\n\n[{{< iconify uiw:file-pdf >}} PDF](https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2022-0002/html){.btn .btn-outline-primary}\n[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:d1gkVwhDpl0C){.btn .btn-outline-primary}\n\n\n## Abstract\n\nMeasures of concentration and competition in the financial sector are important to determine public policies. However, cooperatives, and in particular in the context of small developing countries are largely ignored in economic literature. The empirical analysis is descriptive due to data availability and analysis the loan market of large credit cooperatives. We use a paired sample, selected according to the concentration principle, for which we calculate static concentration measures. Despite the unrepresentative data situation, the results are indicative and offer a first starting point for institutions and cooperatives. Results show that, in general, the cooperative system is highly concentrated, and the loan market is in the hands of two cooperatives. The participation of small cooperatives has dropped to an insignificant level. It seems that market concentration is related to a continuous internal migration. The loan market of large financial cooperatives is not concentrated, however, most loan modalities are highly concentrated, some are competitive and some are not. There is no indicative evidence of market abuse of the three largest credit cooperatives.\n\n\n## Featured article figure\n\n\n::: {#fig-1 .cell .fig-cap-location-margin fig-hight='300'}\n::: {.cell-output-display}\n![The index is calculated based on the total lending volume of credit, production, and other cooperatives. (Source: own calculations. Data: INCOOP)](featured.png){#fig-1 width=368}\n:::\n\nEvolution of the Herfindahl-Hirschman Index (HHI) - Loans.\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

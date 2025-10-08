@@ -1,0 +1,15 @@
+{
+  "hash": "03cbe95452b8d2515614650b7c2b6c1b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016\"\nauthor: Andreas Schneider\ndate: 2018-05-31\nslug: white-collar-crime\nimage: featured.png\ncategories:\n  - research \n  - crime\n  - white-collar crime\n  - time series analysis\n  - english\nsubtitle: Study analyzing white-collar crime in Paraguay using fraud and violation of trust cases.\n\n---\n\n[{{< iconify uiw:file-pdf >}} PDF](http://www.iiass.com/index.php?option=com_content&view=article&id=1079){.btn .btn-outline-primary}\n[{{< iconify carbon:generate-pdf >}} PDF](http://www.iiass.com/pdf/IIASS-2018-no2-art7.pdf){.btn .btn-outline-primary}\n[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:9yKSN-GCB0IC){.btn .btn-outline-primary}\n\n\n\n## Abstract\n\n\n\n::: {.cell}\n\n:::\n\n\nThis research paper contributes to the literature of white-collar crime by using a unique data set of aggregated monthly white-collar crime incidents for Paraguay. The time series includes data from 2000â€“2016. Furthermore, a seasonal ARIMA model is presented to model the data. Findings show that white-collar crime has increased more than 800 percent and crime rate more than 640 percent respectively, with a peak in 2015. Fraud and violation of trust contribute to over 91 percent of aggregated white-collar crime. A prediction for 2017 indicates a slight decrease of 5.7 percent compared to 2016.\n\n\n## Featured article figure\n\n\n\n::: {#fig-1 .cell .fig-cap-location-margin}\n::: {.cell-output-display}\n![The data show a clear non-linear series with no consistent trend.](featured.png){#fig-1 width=486}\n:::\n\nWhite collar crime Paraguay: 2000 - 2016\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

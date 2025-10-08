@@ -1,0 +1,45 @@
+---
+title: "Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases"
+author: Andreas Schneider
+date: 2019-01-13
+slug: deterrence-theory
+#image: featured.png
+categories:
+  - research 
+  - crime
+  - deterrence theory
+  - white-collar crime
+  - english
+subtitle: Study analyzing deterrence theory in Paraguay using fraud and violation of trust cases.
+
+---
+
+[{{< iconify uiw:file-pdf >}} PDF](https://www.mdpi.com/2076-0760/8/1/23){.btn .btn-outline-primary}
+[{{< iconify carbon:generate-pdf >}} PDF](https://www.mdpi.com/2076-0760/8/1/23/pdf?version=1547359570){.btn .btn-outline-primary}
+[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:u5HHmVD_uO8C){.btn .btn-outline-primary}
+
+
+
+## Abstract
+
+
+```{r}
+pubs <- readxl::read_xlsx(here::here("assets/pubs.xlsx"))
+```
+
+`r pubs$abstract_note[[7]]`
+
+
+## Featured article figure
+
+
+```{r}
+#| label: fig-1
+#| fig-cap: "Efficiency of the judicial system (fraude cases) - Part 2"
+#| fig-subcap: "Notes: All figures correspond to fraud cases; Backlog is calculated since 2001; a controlled case is a case with an asigned procedural status (e.g., investigation, accused, desestimated etc.); Turnover ratio measures the relationship between resolved cases and unresolved cases at the end of a period; Disposition time (in days) measures the theoretical time necessary for a pending case to be solved in court in the light of the current pace of work."
+#| fig-cap-location: margin
+#| fig-width: 100
+
+knitr::include_graphics("featured.png")
+```
+

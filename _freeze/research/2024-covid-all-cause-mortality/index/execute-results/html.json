@@ -1,0 +1,15 @@
+{
+  "hash": "c2d09a5e336e138456e0da03e794dd79",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022\"\nauthor: Andreas Schneider\ndate: 2024-12-27\nslug: covid-all-cause-mortality\n#image: featured.png\ncategories:\n  - research\n  - covid-19\n  - mortality\n  - public policy\n  - english\nsubtitle: Study evaluating the impact of public policies during the first lockdown on all-cause mortality in Paraguay.\n\n---\n\n[{{< iconify uiw:file-pdf >}} PDF](https://revistascientificas.upacifico.edu.py/index.php/PublicacionesUP_Salud/article/view/650/1069){.btn .btn-outline-primary}\n[{{< iconify academicons:google-scholar >}} Google Schoolar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SfuAT-QAAAAJ&sortby=pubdate&citation_for_view=SfuAT-QAAAAJ:u-x6o8ySG0sC){.btn .btn-outline-primary}\n\n\n## Abstract\n\n\n\n::: {.cell}\n\n:::\n\n\nIntroduction. Few studies examined the impact of the COVID-19 pandemic on all-cause mortality in Paraguay. Objective. Quantifying the impact of the coronavirus pandemic on all-cause mortality in Paraguay between 2020 and 2022. Material and Method. A custom Bayesian structural time series analysis with autoregressive (AR1) and seasonal components was used to predict counterfactual counts of all-cause mortality and compute excess death. Results. Paraguay reported 122,360 all-cause deaths between 2020-22, compared to an expected 88,988 deaths had the pandemic not occurred, a relative excess mortality of 38%. It is likely that Paraguay undercounted COVID-19 related deaths in the first year of the pandemic. Conclusion. The results presented in this paper extended the knowledge on the impact of COVID-19 on all-cause mortality in the context of Paraguay, being a valuable decision tool for public policy makers. Overall, Paraguay presented good quality of all-cause mortality data, however, high excess mortality should raise concern. Further research is needed to shed light on gender-specific, age-structural or geographical differences and to further identify inequalities.\n\n## Featured article figure\n\n\n\n::: {.cell .fig-cap-location-margin}\n::: {.cell-output-display}\n![Monthly all-cause mortality predictions (dashed line) vs. fitted counts (black line). The Shadowed area indicates 95% Bayesian credible intervals. The vertical line indicates the start of the pandemic. The below plot shows the cumulative excess deaths.](featured.png){#fig-1 width=495}\n:::\n:::\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
