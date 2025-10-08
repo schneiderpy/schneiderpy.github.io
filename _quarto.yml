@@ -1,6 +1,6 @@
 project:
   type: website
-  #output-dir: docs              #defaults to _site
+  output-dir: docs              #defaults to _site
   
   preview:
     port: 22222
