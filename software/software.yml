@@ -1,0 +1,21 @@
+- title: concstats Market Structure, Concentration and Inequality Measures, with R
+  path: https://docs.ropensci.org/concstats/
+  image: ../assets/img/concstats.png
+  description: >
+    Measures of concentration and competition are important and give a
+    first insight of a given market structure in a particular market.
+    They are important to determine public policies and strategic corporate
+    decisions. 
+  categories: [R, Research, R package, Statistics]
+  date: 2023-03
+
+- title: pRycollection
+  path: https://schneiderpy.github.io/pRycollection/
+  # Photo by Adrien Delforge on Unsplash  https://unsplash.com/photos/man-in-black-long-sleeve-shirt-and-black-pants-standing-on-shopping-cart-CrHG_ZYn1Dw
+  image: ../assets/img/prycollection.png
+  description: >
+    The main goal of pRycollection is to provide datasets about Paraguay
+    for research and teaching that are not easily found or accessible.
+  categories: [R, Data, Research]
+  date: 2025-08
+

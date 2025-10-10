@@ -4,6 +4,7 @@
 # Date format
 date-format: "MMMM YYYY"
 
+
 # Enable banner style title blocks
 title-block-banner: "#0d6aa8"
 

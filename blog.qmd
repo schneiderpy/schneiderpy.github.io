@@ -1,0 +1,23 @@
+---
+title: "Blog"
+#subtitle: "General interest or work-related posts"
+lang: en
+listing: 
+  contents:
+    - ./posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  #fields: [date, title, reading-time, description, categories] # not for grid
+comments: false
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/template.css">
+resources:
+  - ../assets/template.css
+ 
+---

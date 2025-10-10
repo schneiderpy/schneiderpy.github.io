@@ -1,6 +1,12 @@
 ---
 title: "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción"
-author: Andreas Schneider
+# Default author
+author:
+  - name: Andreas Schneider
+    url: https://aschneiderconsulting.com
+    affiliation: Independent Researcher
+    affiliation-url: https://aschneiderconsulting.com
+    orcid: 0000-0001-5630-1097
 date: 2020-12-28
 slug: delitos-cuello-blanco
 image: featured.png

@@ -3,7 +3,7 @@ title: "Teoria de la disuasion en el sistema judicial de Paraguay: Explorando ca
 subtitle: Conference, Universidad Privada del Este, Asuncion
 author: Andreas Schneider
 date: 2019-08-12
-#image: featured.png
+image: featured.png
 categories:
   - research 
   - covid
@@ -11,10 +11,6 @@ categories:
   - public policy
   - spanish
 lightbox: true
-links:
-- icon: pencil-fill
-  name: Related blog post
-  #url: https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/view/9800
 toc: false 
 ---
 

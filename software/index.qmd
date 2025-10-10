@@ -1,0 +1,10 @@
+---
+title: Software
+listing:
+  contents: software.yml
+  type: grid
+  max-description-length: 250
+format:
+  html:
+    link-external-newwindow: true
+---

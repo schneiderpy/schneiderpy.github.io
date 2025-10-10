@@ -47,7 +47,9 @@ website:
           - aria-label: Conferences
           - href: conferences/index.qmd
       - text: Blog
-        href: blog/index.qmd
+        href: blog.qmd
+      - text: Software
+        href: software/index.qmd
         
     tools:
       - icon: github

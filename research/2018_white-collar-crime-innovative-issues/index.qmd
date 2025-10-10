@@ -1,6 +1,12 @@
 ---
 title: "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016"
-author: Andreas Schneider
+# Default author
+author:
+  - name: Andreas Schneider
+    url: https://aschneiderconsulting.com
+    affiliation: Independent Researcher
+    affiliation-url: https://aschneiderconsulting.com
+    orcid: 0000-0001-5630-1097
 date: 2018-05-31
 slug: white-collar-crime
 image: featured.png
@@ -23,11 +29,7 @@ subtitle: Study analyzing white-collar crime in Paraguay using fraud and violati
 ## Abstract
 
 
-```{r}
-pubs <- readxl::read_xlsx(here::here("assets/pubs.xlsx"))
-```
-
-`r pubs$abstract_note[[9]]`
+This research paper contributes to the literature of white-collar crime by using a unique data set of aggregated monthly white-collar crime incidents for Paraguay. The time series includes data from 2000 to 2016. Furthermore, a seasonal ARIMA model is presented to model the data. Findings show that white-collar crime has increased more than 800 percent and crime rate more than 640 percent respectively, with a peak in 2015. Fraud and violation of trust contribute to over 91 percent of aggregated white-collar crime. A prediction for 2017 indicates a slight decrease of 5.7 percent compared to 2016.
 
 
 ## Featured article figure

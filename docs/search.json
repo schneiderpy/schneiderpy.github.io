@@ -1,87 +1,115 @@
 [
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Publications",
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Software",
     "section": "",
-    "text": "For more information use the following links:\n Github  ORCID  Google Schoolar\n\nUnderline indicates advisee; * graduate student, **undergraduate student\n\n\n\n\n\n\n\n\n\n\n\nThe impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022\n\n\nStudy evaluating the impact of public policies during the first lockdown on all-cause mortality in Paraguay.\n\n\n\nresearch\n\ncovid-19\n\nmortality\n\npublic policy\n\nenglish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nEl crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas\n\n\nStudy evaluating the impact of public policies during the first lockdown on streetcrime in two Latin American capitals.\n\n\n\nresearch\n\ncovid-19\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nconcstats: Market Structure, Concentration and Inequality Measures, with R\n\n\nResearch software to define market structures and concentration in a given market.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\nenglish\n\n\n\n\n\n\nSeptember 2023\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nKreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay\n\n\nStudy analyzing the market structure and competition of Paraguay’s large credit cooperatives.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\ngerman\n\n\n\n\n\n\nMarch 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDelitos de cuello blanco en Paraguay: Evidencias empíricas y predicción\n\n\nStudy analyzing and predicting white-collar crime in Paraguay with data from 2000 - 2018 and predicting the next year 2019.\n\n\n\nresearch\n\ncrime\n\nwhite collar crime\n\ntime series analysis\n\nspanish\n\n\n\n\n\n\nDecember 2020\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDeterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases\n\n\nStudy analyzing deterrence theory in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\ndeterrence theory\n\nwhite-collar crime\n\nenglish\n\n\n\n\n\n\nJanuary 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nAre their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016\n\n\nStudy analyzing white-collar crime in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\nwhite-collar crime\n\ntime series analysis\n\nenglish\n\n\n\n\n\n\nMay 2018\n\n\nAndreas Schneider\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "concstats Market Structure, Concentration and Inequality Measures, with R\n\n\n\nR\n\nResearch\n\nR package\n\nStatistics\n\n\n\nMeasures of concentration and competition are important and give a first insight of a given market structure in a particular market. They are important to determine public policies and strategic corporate decisions.\n\n\n\nMar 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\npRycollection\n\n\n\nR\n\nData\n\nResearch\n\n\n\nThe main goal of pRycollection is to provide datasets about Paraguay for research and teaching that are not easily found or accessible.\n\n\n\nAug 1, 2025\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
-    "objectID": "research/2024-covid-all-cause-mortality/index.html",
-    "href": "research/2024-covid-all-cause-mortality/index.html",
-    "title": "The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022",
-    "section": "",
-    "text": "PDF  Google Schoolar"
-  },
-  {
-    "objectID": "research/2024-covid-all-cause-mortality/index.html#abstract",
-    "href": "research/2024-covid-all-cause-mortality/index.html#abstract",
-    "title": "The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022",
-    "section": "Abstract",
-    "text": "Abstract\nIntroduction. Few studies examined the impact of the COVID-19 pandemic on all-cause mortality in Paraguay. Objective. Quantifying the impact of the coronavirus pandemic on all-cause mortality in Paraguay between 2020 and 2022. Material and Method. A custom Bayesian structural time series analysis with autoregressive (AR1) and seasonal components was used to predict counterfactual counts of all-cause mortality and compute excess death. Results. Paraguay reported 122,360 all-cause deaths between 2020-22, compared to an expected 88,988 deaths had the pandemic not occurred, a relative excess mortality of 38%. It is likely that Paraguay undercounted COVID-19 related deaths in the first year of the pandemic. Conclusion. The results presented in this paper extended the knowledge on the impact of COVID-19 on all-cause mortality in the context of Paraguay, being a valuable decision tool for public policy makers. Overall, Paraguay presented good quality of all-cause mortality data, however, high excess mortality should raise concern. Further research is needed to shed light on gender-specific, age-structural or geographical differences and to further identify inequalities."
-  },
-  {
-    "objectID": "research/2024-covid-all-cause-mortality/index.html#featured-article-figure",
-    "href": "research/2024-covid-all-cause-mortality/index.html#featured-article-figure",
-    "title": "The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022",
-    "section": "Featured article figure",
-    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: Monthly all-cause mortality predictions (dashed line) vs. fitted counts (black line). The Shadowed area indicates 95% Bayesian credible intervals. The vertical line indicates the start of the pandemic. The below plot shows the cumulative excess deaths."
-  },
-  {
-    "objectID": "research/2022-Kreditgenossenschaften/index.html",
-    "href": "research/2022-Kreditgenossenschaften/index.html",
-    "title": "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay",
+    "objectID": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html",
+    "href": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html",
+    "title": "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas",
     "section": "",
     "text": "PDF  Google Schoolar"
   },
   {
-    "objectID": "research/2022-Kreditgenossenschaften/index.html#abstract",
-    "href": "research/2022-Kreditgenossenschaften/index.html#abstract",
-    "title": "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay",
+    "objectID": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#abstract",
+    "href": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#abstract",
+    "title": "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas",
     "section": "Abstract",
-    "text": "Abstract\nMeasures of concentration and competition in the financial sector are important to determine public policies. However, cooperatives, and in particular in the context of small developing countries are largely ignored in economic literature. The empirical analysis is descriptive due to data availability and analysis the loan market of large credit cooperatives. We use a paired sample, selected according to the concentration principle, for which we calculate static concentration measures. Despite the unrepresentative data situation, the results are indicative and offer a first starting point for institutions and cooperatives. Results show that, in general, the cooperative system is highly concentrated, and the loan market is in the hands of two cooperatives. The participation of small cooperatives has dropped to an insignificant level. It seems that market concentration is related to a continuous internal migration. The loan market of large financial cooperatives is not concentrated, however, most loan modalities are highly concentrated, some are competitive and some are not. There is no indicative evidence of market abuse of the three largest credit cooperatives."
+    "text": "Abstract\nEl repentino estallido de la pandemia de COVID-19 afectó a la vida cotidiana de las personas en todo el mundo. Este artículo utilizó datos semanales de dos capitales sudamericanas, Asunción y la Ciudad de Buenos Aires, entre 2016 y la primera cuarentena total en 2020 para evaluar el impacto directo de las políticas públicas, como el distanciamiento social y las órdenes de no salir de casa, en la delincuencia callejera. Para prever la delincuencia en años anteriores se utilizaron modelos de medias móviles integradas autorregresivas estacionales (SARIMA). Se utilizaron predicciones contrafactuales de estos modelos para comparar las frecuencias previstas y las reales. Los resultados muestran que la delincuencia callejera ha experimentado reducciones significativas de dos dígitos. Aunque con reducciones significativas, los resultados para Asunción son volátiles y no estables, mientras los resultados para Buenos Aires se destacan por su rápido y estable descenso de la delincuencia callejera. El resultado puede atribuirse a una mayor obediencia a las normas durante la cuarentena total, en combinación con un mejor abastecimiento de las necesidades básicas. Cabe suponer que las causas de la delincuencia callejera no han cambiado."
   },
   {
-    "objectID": "research/2022-Kreditgenossenschaften/index.html#featured-article-figure",
-    "href": "research/2022-Kreditgenossenschaften/index.html#featured-article-figure",
-    "title": "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay",
+    "objectID": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#featured-article-figure",
+    "href": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#featured-article-figure",
+    "title": "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas",
     "section": "Featured article figure",
-    "text": "Featured article figure\n\n\n\n\n\n\n\n\n\n(a) The index is calculated based on the total lending volume of credit, production, and other cooperatives. (Source: own calculations. Data: INCOOP)\n\n\n\n\n\nFigure 1: Evolution of the Herfindahl-Hirschman Index (HHI) - Loans."
+    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: Frequency of thefts during the pandemic (black line) and their counterfactual estimates (dashed line) without the public policy applied."
   },
   {
-    "objectID": "research/2019-Deterrence-theory/index.html",
-    "href": "research/2019-Deterrence-theory/index.html",
-    "title": "Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases",
+    "objectID": "research/2023-joss-concstats/index.html",
+    "href": "research/2023-joss-concstats/index.html",
+    "title": "concstats: Market Structure, Concentration and Inequality Measures, with R",
     "section": "",
     "text": "PDF  PDF  Google Schoolar"
   },
   {
-    "objectID": "research/2019-Deterrence-theory/index.html#abstract",
-    "href": "research/2019-Deterrence-theory/index.html#abstract",
-    "title": "Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases",
+    "objectID": "research/2023-joss-concstats/index.html#abstract",
+    "href": "research/2023-joss-concstats/index.html#abstract",
+    "title": "concstats: Market Structure, Concentration and Inequality Measures, with R",
     "section": "Abstract",
-    "text": "Abstract\nThis research paper contributes to the literature of deterrence theory in general, and in particular, with respect to white-collar crime, offering valuable insight by using a unique dataset of fraud and violation of trust incidents within the jurisdiction of Paraguay. Descriptive evidence shows a clear and continuous misallocation of funds and human capital, therefore providing less efficient services for the public. Regression analysis suggests that clearance rate exerts a highly significant effect in deterring fraud, but the results are not clear for violation of trust incidents. Despite the limitations of available data, results confirm the deterrence theory in Paraguay. However, for more than two-thirds of victims, not even an attempt was made to seek justice. As a side-result, it seems that a soft-on-crime strategy, induced from the former German penal code, has led to an increasing share of pre-trial diversion, therefore enhancing white-collar crimes like fraud and violation of trust, due to impunity."
+    "text": "Abstract\nMeasures of concentration, competition, and inequality are important key aspects in many disciplines of social sciences. In economics they give a first insight of a given market structure in a particular market. They are important to determine public policies and strategic corporate decisions. However, in research and in practice the most commonly used measure is the Herfindahl Hirschman Index (Herfindahl, 1950) (Hirschman, 1945), calculated as the sum of squared shares retained by individual firms in a given market."
   },
   {
-    "objectID": "research/2019-Deterrence-theory/index.html#featured-article-figure",
-    "href": "research/2019-Deterrence-theory/index.html#featured-article-figure",
-    "title": "Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases",
+    "objectID": "research/2023-joss-concstats/index.html#featured-article-figure",
+    "href": "research/2023-joss-concstats/index.html#featured-article-figure",
+    "title": "concstats: Market Structure, Concentration and Inequality Measures, with R",
     "section": "Featured article figure",
-    "text": "Featured article figure\n\n\n\n\n\n\n\n\n\n(a) Notes: All figures correspond to fraud cases; Backlog is calculated since 2001; a controlled case is a case with an asigned procedural status (e.g., investigation, accused, desestimated etc.); Turnover ratio measures the relationship between resolved cases and unresolved cases at the end of a period; Disposition time (in days) measures the theoretical time necessary for a pending case to be solved in court in the light of the current pace of work.\n\n\n\n\n\nFigure 1: Efficiency of the judicial system (fraude cases) - Part 2"
+    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: Paired sample of large credit cooperatives."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "research/2020-Delitos-cuello-blanco/index.html",
+    "href": "research/2020-Delitos-cuello-blanco/index.html",
+    "title": "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción",
     "section": "",
-    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "PDF  PDF  Google Schoolar"
   },
   {
-    "objectID": "HHI.html",
-    "href": "HHI.html",
-    "title": "Untitled",
+    "objectID": "research/2020-Delitos-cuello-blanco/index.html#abstract",
+    "href": "research/2020-Delitos-cuello-blanco/index.html#abstract",
+    "title": "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción",
+    "section": "Abstract",
+    "text": "Abstract\nThis article contributes to the white-collar crime literature and to sensitizing the Attorney General, the Judiciary, the Ministry of Justice and the Ombudsman by analyzing these crimes with a single set of monthly aggregated data. The time series includes incidents from 2000 to 2018. In addition, an ARIMA model is presented to model the data generating process with the intention of predicting the next year in the series. The findings show that white-collar crime has increased more than 236% and the index rose to 830 points, respectively, with a peak in 2015. Fraud and violation of trust contribute to more than 91% of total incidents. A prediction for 2019 indicates an increase of 11.15% compared to the previous year."
+  },
+  {
+    "objectID": "research/2020-Delitos-cuello-blanco/index.html#featured-article-figure",
+    "href": "research/2020-Delitos-cuello-blanco/index.html#featured-article-figure",
+    "title": "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción",
+    "section": "Featured article figure",
+    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: White collar crime: 2000 - 2018."
+  },
+  {
+    "objectID": "research/2018_white-collar-crime-innovative-issues/index.html",
+    "href": "research/2018_white-collar-crime-innovative-issues/index.html",
+    "title": "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016",
     "section": "",
-    "text": "Herfindahl-Hirschmann Index (HHI) - Loans\n\n\n\nSystem\nType A\nType B\nType C\n\n\n\n\n2010\n0.79359\n0.75168\n0.01116\n0.00075\n\n\n2011\n0.76003\n0.74673\n0.01277\n0.00052\n\n\n2012\n0.76615\n0.75287\n0.01293\n0.00035\n\n\n2013\n0.79025\n0.77932\n0.01074\n0.00018\n\n\n2014\n0.81231\n0.80466\n0.00735\n0.00030\n\n\n2015\n0.87412\n0.87067\n0.00337\n0.00008\n\n\n2016\n0.87182\n0.86792\n0.00386\n0.00004\n\n\n2017\n0.86081\n0.85654\n0.00418\n0.00010\n\n\n2018\n0.88070\n0.87711\n0.00358\n0.00001\n\n\nRC Coeficiente\n0.9167\n0.9167\n-0.8167\n-0.9333\n\n\nwith RC &lt; 0\n0.5555\n0.5555\n0.1111\n0.0000\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "PDF  PDF  Google Schoolar"
+  },
+  {
+    "objectID": "research/2018_white-collar-crime-innovative-issues/index.html#abstract",
+    "href": "research/2018_white-collar-crime-innovative-issues/index.html#abstract",
+    "title": "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016",
+    "section": "Abstract",
+    "text": "Abstract\nThis research paper contributes to the literature of white-collar crime by using a unique data set of aggregated monthly white-collar crime incidents for Paraguay. The time series includes data from 2000 to 2016. Furthermore, a seasonal ARIMA model is presented to model the data. Findings show that white-collar crime has increased more than 800 percent and crime rate more than 640 percent respectively, with a peak in 2015. Fraud and violation of trust contribute to over 91 percent of aggregated white-collar crime. A prediction for 2017 indicates a slight decrease of 5.7 percent compared to 2016."
+  },
+  {
+    "objectID": "research/2018_white-collar-crime-innovative-issues/index.html#featured-article-figure",
+    "href": "research/2018_white-collar-crime-innovative-issues/index.html#featured-article-figure",
+    "title": "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016",
+    "section": "Featured article figure",
+    "text": "Featured article figure\n\n\n\n\n\n\n\n\n\n(a) The data show a clear non-linear series with no consistent trend.\n\n\n\n\n\nFigure 1: White collar crime Paraguay: 2000 - 2016"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andreas Schneider",
+    "section": "",
+    "text": "A little bit about me and my life."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Andreas Schneider",
+    "section": "Education",
+    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Andreas Schneider",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
   },
   {
     "objectID": "blog/third-post/index.html",
@@ -126,115 +154,94 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices.\n\n\n\n Back to top"
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Que calor! o Que calor?\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEspañol\n\n\n\nLa temperatura de Asuncion 2016-2023\n\n\n\nAndreas Schneider\n\n\nMar 26, 2024\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
     "objectID": "conferences/index.html",
     "href": "conferences/index.html",
     "title": "Conferences",
     "section": "",
-    "text": "Delitos de Cuello Blanco en Paraguay: Evidencias empíricas y modelo\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nNov 1, 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nAnalizando la estructura de mercado, competencia y comportamiento con R y concstats\n\n\n\nconference\n\nresearch\n\nR\n\nsoftware\n\nspanish\n\n\n\n\n\n\nOct 10, 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en el sistema judicial de Paraguay: Explorando casos de estafa y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nNov 14, 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en el sistema judicial de Paraguay: Explorando casos de estafa y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nAug 12, 2019\n\n\nAndreas Schneider\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Delitos de Cuello Blanco en Paraguay: Evidencias empíricas y modelo\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nNov 1, 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nAnalizando la estructura de mercado, competencia y comportamiento con R y concstats\n\n\n\nconference\n\nresearch\n\nR\n\nsoftware\n\nspanish\n\n\n\n\n\n\nOct 10, 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en el sistema judicial de Paraguay: Explorando casos de estafa y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nNov 14, 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en el sistema judicial de Paraguay: Explorando casos de estafa y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nAug 12, 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en Paraguay: Explorando casos de fraude y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nMay 16, 2019\n\n\nAndreas Schneider\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Andreas Schneider",
+    "objectID": "posts/2024-03-26-temperature-asu/index.html",
+    "href": "posts/2024-03-26-temperature-asu/index.html",
+    "title": "Que calor! o Que calor?",
     "section": "",
-    "text": "A little bit about me and my life."
+    "text": "TipTip para informacion mas desglosada\n\n\n\nTodos los gráficos de esta página son interactivos, lo que significa que si pasa el cursor o el mouse sobre el gráfico, podrá ver la temperatura de días específicos.\n\n\nÚltimamente se habla mucho sobre el clima, cambio climático y en Paraguay sobre el calor o ola de calor. Con este material me gustaría aportar algunos datos cuantitativos a través de un análisis exploratorio. Con tal fin usaremos la temperatura del aire diaria para Asunción desde enero 2016 hasta diciembre 2023. Todos los datos son gratis y lo obtuve de Visual Crossing.\nSi bien se ha publicado un análisis exploratorio algo más detallado en otros lugares, en este post me gustaria hacer un breve resumen con un enfoque en graficos interactivos.\n\n\n\n\n\n\n\nFigura 1: Temperatura promedio diaria\n\n\n\nPodemos observar en este grafico un promedio de la temperatura diaria alrededor de 23°C y una clara tendencia al alza a partir del año 2022.\nEn el siguiente grafico observamos la temperatura maxima diaria.\n\n\n\n\n\n\n\nFigura 2: Temperatura maxima diaria\n\n\n\nEl promedio de la temperatura maxima diaria llega a 29.3°C. Tambien con una tendencia al alza, pero no tan pronuciada.\nObservemos con más detalle la sensacion termica diaria (máxima) en una trama interactiva.\n\n\n\n\n\n\n\nFigura 3: Sensacion termica (max.) promedio diaria\n\n\n\nSin sorpresa, podemos observar el mismo patrón que en el grafico anterior. El promedio de la sensacion termica (max.) se encuentra alrededor de los 31°C, tambien con una tendencia al alza.\n\n\n\n Volver arribaReutilizaciónCC BY 4.0Cómo citarBibTeX@online{schneider2024,\n  author = {Schneider, Andreas},\n  title = {Que calor! o Que calor?},\n  date = {2024-03-26},\n  url = {https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nSchneider, Andreas. 2024. “Que calor! o Que calor?” March\n26, 2024. https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Andreas Schneider",
-    "section": "Education",
-    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Andreas Schneider",
-    "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
-  },
-  {
-    "objectID": "research/2018_white-collar-crime-innovative-issues/index.html",
-    "href": "research/2018_white-collar-crime-innovative-issues/index.html",
-    "title": "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016",
+    "objectID": "research/2019-Deterrence-theory/index.html",
+    "href": "research/2019-Deterrence-theory/index.html",
+    "title": "Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases",
     "section": "",
     "text": "PDF  PDF  Google Schoolar"
   },
   {
-    "objectID": "research/2018_white-collar-crime-innovative-issues/index.html#abstract",
-    "href": "research/2018_white-collar-crime-innovative-issues/index.html#abstract",
-    "title": "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016",
+    "objectID": "research/2019-Deterrence-theory/index.html#abstract",
+    "href": "research/2019-Deterrence-theory/index.html#abstract",
+    "title": "Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases",
     "section": "Abstract",
-    "text": "Abstract\nThis research paper contributes to the literature of white-collar crime by using a unique data set of aggregated monthly white-collar crime incidents for Paraguay. The time series includes data from 2000â€“2016. Furthermore, a seasonal ARIMA model is presented to model the data. Findings show that white-collar crime has increased more than 800 percent and crime rate more than 640 percent respectively, with a peak in 2015. Fraud and violation of trust contribute to over 91 percent of aggregated white-collar crime. A prediction for 2017 indicates a slight decrease of 5.7 percent compared to 2016."
+    "text": "Abstract\nThis research paper contributes to the literature of deterrence theory in general, and in particular, with respect to white-collar crime, offering valuable insight by using a unique dataset of fraud and violation of trust incidents within the jurisdiction of Paraguay. Descriptive evidence shows a clear and continuous misallocation of funds and human capital, therefore providing less efficient services for the public. Regression analysis suggests that clearance rate exerts a highly significant effect in deterring fraud, but the results are not clear for violation of trust incidents. Despite the limitations of available data, results confirm the deterrence theory in Paraguay. However, for more than two-thirds of victims, not even an attempt was made to seek justice. As a side-result, it seems that a soft-on-crime strategy, induced from the former German penal code, has led to an increasing share of pre-trial diversion, therefore enhancing white-collar crimes like fraud and violation of trust, due to impunity."
   },
   {
-    "objectID": "research/2018_white-collar-crime-innovative-issues/index.html#featured-article-figure",
-    "href": "research/2018_white-collar-crime-innovative-issues/index.html#featured-article-figure",
-    "title": "Are their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016",
+    "objectID": "research/2019-Deterrence-theory/index.html#featured-article-figure",
+    "href": "research/2019-Deterrence-theory/index.html#featured-article-figure",
+    "title": "Deterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases",
     "section": "Featured article figure",
-    "text": "Featured article figure\n\n\n\n\n\n\n\n\n\n(a) The data show a clear non-linear series with no consistent trend.\n\n\n\n\n\nFigure 1: White collar crime Paraguay: 2000 - 2016"
+    "text": "Featured article figure\n\n\n\n\n\n\n\n\n\n(a) Notes: All figures correspond to fraud cases; Backlog is calculated since 2001; a controlled case is a case with an asigned procedural status (e.g., investigation, accused, desestimated etc.); Turnover ratio measures the relationship between resolved cases and unresolved cases at the end of a period; Disposition time (in days) measures the theoretical time necessary for a pending case to be solved in court in the light of the current pace of work.\n\n\n\n\n\nFigure 1: Efficiency of the judicial system (fraude cases) - Part 2"
   },
   {
-    "objectID": "research/2020-Delitos-cuello-blanco/index.html",
-    "href": "research/2020-Delitos-cuello-blanco/index.html",
-    "title": "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción",
-    "section": "",
-    "text": "PDF  PDF  Google Schoolar"
-  },
-  {
-    "objectID": "research/2020-Delitos-cuello-blanco/index.html#abstract",
-    "href": "research/2020-Delitos-cuello-blanco/index.html#abstract",
-    "title": "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción",
-    "section": "Abstract",
-    "text": "Abstract\nThis article contributes to the white-collar crime literature and to sensitizing the Attorney General, the Judiciary, the Ministry of Justice and the Ombudsman by analyzing these crimes with a single set of monthly aggregated data. The time series includes incidents from 2000 to 2018. In addition, an ARIMA model is presented to model the data generating process with the intention of predicting the next year in the series. The findings show that white-collar crime has increased more than 236% and the index rose to 830 points, respectively, with a peak in 2015. Fraud and violation of trust contribute to more than 91% of total incidents. A prediction for 2019 indicates an increase of 11.15% compared to the previous year."
-  },
-  {
-    "objectID": "research/2020-Delitos-cuello-blanco/index.html#featured-article-figure",
-    "href": "research/2020-Delitos-cuello-blanco/index.html#featured-article-figure",
-    "title": "Delitos de cuello blanco en Paraguay: Evidencias empíricas y predicción",
-    "section": "Featured article figure",
-    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: White collar crime: 2000 - 2018."
-  },
-  {
-    "objectID": "research/2023-joss-concstats/index.html",
-    "href": "research/2023-joss-concstats/index.html",
-    "title": "concstats: Market Structure, Concentration and Inequality Measures, with R",
-    "section": "",
-    "text": "PDF  PDF  Google Schoolar"
-  },
-  {
-    "objectID": "research/2023-joss-concstats/index.html#abstract",
-    "href": "research/2023-joss-concstats/index.html#abstract",
-    "title": "concstats: Market Structure, Concentration and Inequality Measures, with R",
-    "section": "Abstract",
-    "text": "Abstract\nMeasures of concentration, competition, and inequality are important key aspects in many disciplines of social sciences. In economics they give a first insight of a given market structure in a particular market. They are important to determine public policies and strategic corporate decisions. However, in research and in practice the most commonly used measure is the Herfindahl Hirschman Index (Herfindahl, 1950) (Hirschman, 1945), calculated as the sum of squared shares retained by individual firms in a given market."
-  },
-  {
-    "objectID": "research/2023-joss-concstats/index.html#featured-article-figure",
-    "href": "research/2023-joss-concstats/index.html#featured-article-figure",
-    "title": "concstats: Market Structure, Concentration and Inequality Measures, with R",
-    "section": "Featured article figure",
-    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: Paired sample of large credit cooperatives."
-  },
-  {
-    "objectID": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html",
-    "href": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html",
-    "title": "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas",
+    "objectID": "research/2022-Kreditgenossenschaften/index.html",
+    "href": "research/2022-Kreditgenossenschaften/index.html",
+    "title": "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay",
     "section": "",
     "text": "PDF  Google Schoolar"
   },
   {
-    "objectID": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#abstract",
-    "href": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#abstract",
-    "title": "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas",
+    "objectID": "research/2022-Kreditgenossenschaften/index.html#abstract",
+    "href": "research/2022-Kreditgenossenschaften/index.html#abstract",
+    "title": "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay",
     "section": "Abstract",
-    "text": "Abstract\nEl repentino estallido de la pandemia de COVID-19 afectó a la vida cotidiana de las personas en todo el mundo. Este artículo utilizó datos semanales de dos capitales sudamericanas, Asunción y la Ciudad de Buenos Aires, entre 2016 y la primera cuarentena total en 2020 para evaluar el impacto directo de las políticas públicas, como el distanciamiento social y las órdenes de no salir de casa, en la delincuencia callejera. Para prever la delincuencia en años anteriores se utilizaron modelos de medias móviles integradas autorregresivas estacionales (SARIMA). Se utilizaron predicciones contrafactuales de estos modelos para comparar las frecuencias previstas y las reales. Los resultados muestran que la delincuencia callejera ha experimentado reducciones significativas de dos dígitos. Aunque con reducciones significativas, los resultados para Asunción son volátiles y no estables, mientras los resultados para Buenos Aires se destacan por su rápido y estable descenso de la delincuencia callejera. El resultado puede atribuirse a una mayor obediencia a las normas durante la cuarentena total, en combinación con un mejor abastecimiento de las necesidades básicas. Cabe suponer que las causas de la delincuencia callejera no han cambiado."
+    "text": "Abstract\nMeasures of concentration and competition in the financial sector are important to determine public policies. However, cooperatives, and in particular in the context of small developing countries are largely ignored in economic literature. The empirical analysis is descriptive due to data availability and analysis the loan market of large credit cooperatives. We use a paired sample, selected according to the concentration principle, for which we calculate static concentration measures. Despite the unrepresentative data situation, the results are indicative and offer a first starting point for institutions and cooperatives. Results show that, in general, the cooperative system is highly concentrated, and the loan market is in the hands of two cooperatives. The participation of small cooperatives has dropped to an insignificant level. It seems that market concentration is related to a continuous internal migration. The loan market of large financial cooperatives is not concentrated, however, most loan modalities are highly concentrated, some are competitive and some are not. There is no indicative evidence of market abuse of the three largest credit cooperatives."
   },
   {
-    "objectID": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#featured-article-figure",
-    "href": "research/2024-Paraguay-desde-las-ciencias-sociales/index.html#featured-article-figure",
-    "title": "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas",
+    "objectID": "research/2022-Kreditgenossenschaften/index.html#featured-article-figure",
+    "href": "research/2022-Kreditgenossenschaften/index.html#featured-article-figure",
+    "title": "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay",
     "section": "Featured article figure",
-    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: Frequency of thefts during the pandemic (black line) and their counterfactual estimates (dashed line) without the public policy applied."
+    "text": "Featured article figure\n\n\n\n\n\n\n\n\n\n(a) The index is calculated based on the total lending volume of credit, production, and other cooperatives. (Source: own calculations. Data: INCOOP)\n\n\n\n\n\nFigure 1: Evolution of the Herfindahl-Hirschman Index (HHI) - Loans."
+  },
+  {
+    "objectID": "research/2024-covid-all-cause-mortality/index.html",
+    "href": "research/2024-covid-all-cause-mortality/index.html",
+    "title": "The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022",
+    "section": "",
+    "text": "PDF  Google Schoolar"
+  },
+  {
+    "objectID": "research/2024-covid-all-cause-mortality/index.html#abstract",
+    "href": "research/2024-covid-all-cause-mortality/index.html#abstract",
+    "title": "The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022",
+    "section": "Abstract",
+    "text": "Abstract\nIntroduction. Few studies examined the impact of the COVID-19 pandemic on all-cause mortality in Paraguay. Objective. Quantifying the impact of the coronavirus pandemic on all-cause mortality in Paraguay between 2020 and 2022. Material and Method. A custom Bayesian structural time series analysis with autoregressive (AR1) and seasonal components was used to predict counterfactual counts of all-cause mortality and compute excess death. Results. Paraguay reported 122,360 all-cause deaths between 2020-22, compared to an expected 88,988 deaths had the pandemic not occurred, a relative excess mortality of 38%. It is likely that Paraguay undercounted COVID-19 related deaths in the first year of the pandemic. Conclusion. The results presented in this paper extended the knowledge on the impact of COVID-19 on all-cause mortality in the context of Paraguay, being a valuable decision tool for public policy makers. Overall, Paraguay presented good quality of all-cause mortality data, however, high excess mortality should raise concern. Further research is needed to shed light on gender-specific, age-structural or geographical differences and to further identify inequalities."
+  },
+  {
+    "objectID": "research/2024-covid-all-cause-mortality/index.html#featured-article-figure",
+    "href": "research/2024-covid-all-cause-mortality/index.html#featured-article-figure",
+    "title": "The impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022",
+    "section": "Featured article figure",
+    "text": "Featured article figure\n\n\n\n\n\n\n\nFigure 1: Monthly all-cause mortality predictions (dashed line) vs. fitted counts (black line). The Shadowed area indicates 95% Bayesian credible intervals. The vertical line indicates the start of the pandemic. The below plot shows the cumulative excess deaths."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For more information use the following links:\n Github  ORCID  Google Schoolar\n\nUnderline indicates advisee; * graduate student, **undergraduate student\n\n\n\n\n\n\n\n\n\n\n\nThe impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022\n\n\nStudy evaluating the impact of public policies during the first lockdown on all-cause mortality in Paraguay.\n\n\n\nresearch\n\ncovid-19\n\nmortality\n\npublic policy\n\nenglish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nEl crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas\n\n\nStudy evaluating the impact of public policies during the first lockdown on streetcrime in two Latin American capitals.\n\n\n\nresearch\n\ncovid-19\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nconcstats: Market Structure, Concentration and Inequality Measures, with R\n\n\nResearch software to define market structures and concentration in a given market.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\nenglish\n\n\n\n\n\n\nSeptember 2023\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nKreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay\n\n\nStudy analyzing the market structure and competition of Paraguay’s large credit cooperatives.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\ngerman\n\n\n\n\n\n\nMarch 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDelitos de cuello blanco en Paraguay: Evidencias empíricas y predicción\n\n\nStudy analyzing and predicting white-collar crime in Paraguay with data from 2000 - 2018 and predicting the next year 2019.\n\n\n\nresearch\n\ncrime\n\nwhite collar crime\n\ntime series analysis\n\nspanish\n\n\n\n\n\n\nDecember 2020\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDeterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases\n\n\nStudy analyzing deterrence theory in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\ndeterrence theory\n\nwhite-collar crime\n\nenglish\n\n\n\n\n\n\nJanuary 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nAre their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016\n\n\nStudy analyzing white-collar crime in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\nwhite-collar crime\n\ntime series analysis\n\nenglish\n\n\n\n\n\n\nMay 2018\n\n\nAndreas Schneider\n\n\n\n\n\nNo matching items\n Back to top"
   }
 ]

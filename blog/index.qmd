@@ -1,21 +1,27 @@
 ---
 title: "Posts"
+description: |
+  This is home for my research publications, each linked with<br>
+  accompanying preprints, posters, and/or news pieces.
 listing:
-  - id: talks
-    contents: "**/*/index.qmd"
-    type: default
-    fields: [image, date, title, subtitle]
-    sort: "date desc"
-    categories: cloud
-    sort-ui: true
-    filter-ui: true
-    page-size: 36
+  contents: 
+    - "**/*/index.qmd"
+  sort: "date desc"
+  type: default
+  fields: [image, date, title, subtitle]
+  categories: cloud
+  sort-ui: true
+  filter-ui: true
+  page-size: 36
     
 page-layout: full
 title-block-banner: false
 toc: true
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/template.css">
+resources:
+  - ../assets/template.css
 ---
 
 
-::: {#posts}
-:::

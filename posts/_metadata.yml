@@ -1,0 +1,50 @@
+# options specified here will apply to all posts in this folder
+
+# prevents posts from re-rendering unless explicitly told to do so
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+# - true: never re-render during project render, i.e., only re-render when 
+#   `quarto render` is run on that file
+# - false: always re-render
+# - auto: only re-render during project render if the source has changed
+execute:
+  freeze: true
+  # knitr options
+  echo: true
+  message: true
+  warning: true
+
+# enable banner style title blocks
+# (see https://quarto.org/docs/authoring/title-blocks.html)
+# Enable banner style title blocks
+title-block-banner: "#0d6aa8"
+
+# Enable CC licence appendix
+license: "CC BY"
+
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: right
+toc-depth: 3
+
+page-layout: article
+
+
+# Default author
+author:
+  - name: Andreas Schneider
+    url: https://aschneiderconsulting.com
+    affiliation: Independent Researcher
+    affiliation-url: https://aschneiderconsulting.com
+    orcid: 0000-0003-4719-7472
+
+lang: en
+
+# Include something after every blog post with hand-made html-file
+format:
+  html:
+    include-after-body: ../assets/body_footer.html
+    link-external-newwindow: true
+    

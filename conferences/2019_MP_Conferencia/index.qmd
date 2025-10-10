@@ -1,0 +1,19 @@
+---
+title: "Teoria de la disuasion en Paraguay: Explorando casos de fraude y lesion de confianza."
+subtitle: Conference, Ministerio Publico, Centro de Entrenamiento, Asuncion
+author: Andreas Schneider
+date: 2019-05-16
+image: featured.png
+categories:
+  - research 
+  - covid
+  - criminology
+  - public policy
+  - spanish
+lightbox: true
+links:
+toc: false 
+---
+
+## Description
+

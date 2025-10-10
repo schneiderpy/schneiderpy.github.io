@@ -1,6 +1,12 @@
 ---
 title: "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas"
-author: Andreas Schneider
+# Default author
+author:
+  - name: Andreas Schneider
+    url: https://aschneiderconsulting.com
+    affiliation: Independent Researcher
+    affiliation-url: https://aschneiderconsulting.com
+    orcid: 0000-0001-5630-1097
 date: 2024-12-02
 slug: covid-crime
 #image: featured.png

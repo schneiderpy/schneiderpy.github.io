@@ -1,6 +1,12 @@
 ---
 title: "Kreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay"
-author: Andreas Schneider
+# Default author
+author:
+  - name: Andreas Schneider
+    url: https://aschneiderconsulting.com
+    affiliation: Independent Researcher
+    affiliation-url: https://aschneiderconsulting.com
+    orcid: 0000-0001-5630-1097
 date: 2022-03-01
 slug: credit-coops
 #image: featured.png
