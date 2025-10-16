@@ -1,0 +1,8 @@
+Professional and academic website for Andreas Schneider
+================
+
+This is the home of my professional and academic website.
+
+This version was made using [Quarto](https://quarto.org/)
+
+[![](https://api.netlify.com/api/v1/badges/a306b3b5-8fd4-46b2-a7b3-840039bc30c3/deploy-status)](https://app.netlify.com/projects/schneiderpy/deploys)

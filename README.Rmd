@@ -1,6 +1,6 @@
 ---
 title: "Professional and academic website for Andreas Schneider"
-output: html_document
+output: github_document
 ---
 
 This is the home of my professional and academic website.
