@@ -91,74 +91,32 @@
     "text": "Featured article figure\n\n\n\n\n\n\n\n\n\n(a) The data show a clear non-linear series with no consistent trend.\n\n\n\n\n\nFigure 1: White collar crime Paraguay: 2000 - 2016"
   },
   {
+    "objectID": "posts/es.html",
+    "href": "posts/es.html",
+    "title": "Andreas Schneider",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEspañol\n\n\n\n\n\n\nMar 26, 2024\n\n\nAndreas Schneider\n\n4 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/es.html#posts-in-english",
+    "href": "posts/es.html#posts-in-english",
+    "title": "Andreas Schneider",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEspañol\n\n\n\n\n\n\nMar 26, 2024\n\n\nAndreas Schneider\n\n4 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-03-26-temperature-asu/es/index.html",
+    "href": "posts/2024-03-26-temperature-asu/es/index.html",
+    "title": "Que calor! o Que calor?",
+    "section": "",
+    "text": "TipTip para informacion mas desglosada\n\n\n\nTodos los gráficos de esta página son interactivos, lo que significa que si pasa el cursor o el mouse sobre el gráfico, podrá ver la temperatura de días específicos.\n\n\nÚltimamente se habla mucho sobre el clima, cambio climático y en Paraguay sobre el calor o ola de calor. Con este material me gustaría aportar algunos datos cuantitativos a través de un análisis exploratorio. Con tal fin usaremos la temperatura del aire diaria para Asunción desde enero 2016 hasta diciembre 2023. Todos los datos son gratis y lo obtuve de Visual Crossing.\nSi bien se ha publicado un análisis exploratorio algo más detallado en otros lugares, en este post me gustaria hacer un breve resumen con un enfoque en graficos interactivos.\n\n\n\n\n\n\n\nFigura 1: Temperatura promedio diaria\n\n\n\nPodemos observar en este grafico un promedio de la temperatura diaria alrededor de 23°C y una clara tendencia al alza a partir del año 2022.\nEn el siguiente grafico observamos la temperatura maxima diaria.\n\n\n\n\n\n\n\nFigura 2: Temperatura maxima diaria\n\n\n\nEl promedio de la temperatura maxima diaria llega a 29.3°C. Tambien con una tendencia al alza, pero no tan pronuciada.\nObservemos con más detalle la sensacion termica diaria (máxima) en una trama interactiva.\n\n\n\n\n\n\n\nFigura 3: Sensacion termica (max.) promedio diaria\n\n\n\nSin sorpresa, podemos observar el mismo patrón que en el grafico anterior. El promedio de la sensacion termica (max.) se encuentra alrededor de los 31°C, tambien con una tendencia al alza.\n\n\n\n Volver arribaReutilizaciónCC BY 4.0Cómo citarBibTeX@online{schneider2024,\n  author = {Schneider, Andreas},\n  title = {Que calor! o Que calor?},\n  date = {2024-03-26},\n  url = {https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nSchneider, Andreas. 2024. “Que calor! o Que calor?” March\n26, 2024. https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Andreas Schneider",
     "section": "",
-    "text": "A little bit about me and my life."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Andreas Schneider",
-    "section": "Education",
-    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Andreas Schneider",
-    "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
-  },
-  {
-    "objectID": "blog/third-post/index.html",
-    "href": "blog/third-post/index.html",
-    "title": "Third Blog Post",
-    "section": "",
-    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\n\n\n\n\n\n\nMay 23, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Post\n\n\n\n\n\n\n\n\nMay 22, 2021\n\n\n\n\n\nNo matching items\n Back to top"
-  },
-  {
-    "objectID": "blog/es.html",
-    "href": "blog/es.html",
-    "title": "Andreas Schneider",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/es.html#posts-en-español",
-    "href": "blog/es.html#posts-en-español",
-    "title": "Andreas Schneider",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/first-post/index.html",
-    "href": "blog/first-post/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog/second-post/index.html",
-    "href": "blog/second-post/index.html",
-    "title": "Second Post",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Que calor! o Que calor?\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEspañol\n\n\n\nLa temperatura de Asuncion 2016-2023\n\n\n\nAndreas Schneider\n\n\nMar 26, 2024\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Welcome to my professional and academic website!\nI am a researcher and management consultant who turned to data science after discovering and experiencing the immense benefits and value of data. I combine research skills and insights with management consulting for SMEs.\nRead further if you are curious and want to know more …\n\n\n Back to top"
   },
   {
     "objectID": "conferences/index.html",
@@ -168,11 +126,60 @@
     "text": "Delitos de Cuello Blanco en Paraguay: Evidencias empíricas y modelo\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nNov 1, 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nAnalizando la estructura de mercado, competencia y comportamiento con R y concstats\n\n\n\nconference\n\nresearch\n\nR\n\nsoftware\n\nspanish\n\n\n\n\n\n\nOct 10, 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en el sistema judicial de Paraguay: Explorando casos de estafa y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nNov 14, 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en el sistema judicial de Paraguay: Explorando casos de estafa y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nAug 12, 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\nTeoria de la disuasion en Paraguay: Explorando casos de fraude y lesion de confianza.\n\n\n\nresearch\n\ncovid\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nMay 16, 2019\n\n\nAndreas Schneider\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
-    "objectID": "posts/2024-03-26-temperature-asu/index.html",
-    "href": "posts/2024-03-26-temperature-asu/index.html",
-    "title": "Que calor! o Que calor?",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "TipTip para informacion mas desglosada\n\n\n\nTodos los gráficos de esta página son interactivos, lo que significa que si pasa el cursor o el mouse sobre el gráfico, podrá ver la temperatura de días específicos.\n\n\nÚltimamente se habla mucho sobre el clima, cambio climático y en Paraguay sobre el calor o ola de calor. Con este material me gustaría aportar algunos datos cuantitativos a través de un análisis exploratorio. Con tal fin usaremos la temperatura del aire diaria para Asunción desde enero 2016 hasta diciembre 2023. Todos los datos son gratis y lo obtuve de Visual Crossing.\nSi bien se ha publicado un análisis exploratorio algo más detallado en otros lugares, en este post me gustaria hacer un breve resumen con un enfoque en graficos interactivos.\n\n\n\n\n\n\n\nFigura 1: Temperatura promedio diaria\n\n\n\nPodemos observar en este grafico un promedio de la temperatura diaria alrededor de 23°C y una clara tendencia al alza a partir del año 2022.\nEn el siguiente grafico observamos la temperatura maxima diaria.\n\n\n\n\n\n\n\nFigura 2: Temperatura maxima diaria\n\n\n\nEl promedio de la temperatura maxima diaria llega a 29.3°C. Tambien con una tendencia al alza, pero no tan pronuciada.\nObservemos con más detalle la sensacion termica diaria (máxima) en una trama interactiva.\n\n\n\n\n\n\n\nFigura 3: Sensacion termica (max.) promedio diaria\n\n\n\nSin sorpresa, podemos observar el mismo patrón que en el grafico anterior. El promedio de la sensacion termica (max.) se encuentra alrededor de los 31°C, tambien con una tendencia al alza.\n\n\n\n Volver arribaReutilizaciónCC BY 4.0Cómo citarBibTeX@online{schneider2024,\n  author = {Schneider, Andreas},\n  title = {Que calor! o Que calor?},\n  date = {2024-03-26},\n  url = {https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu},\n  langid = {es}\n}\nPor favor, cita este trabajo como:\nSchneider, Andreas. 2024. “Que calor! o Que calor?” March\n26, 2024. https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu."
+    "text": "Andreas Schneider\n\n\n\n\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\nAndreas Schneider\n\n\n\n\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\nPosts\n\n\n\n\n\n\nAndreas Schneider\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat heat! or What heat?\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEnglish\n\n\n\nDaily temperature for Asuncion 2016-2023\n\n\n\nAndreas Schneider\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nQue calor! o Que calor?\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEspañol\n\n\n\nLa temperatura de Asuncion 2016-2023\n\n\n\nAndreas Schneider\n\n\nMar 26, 2024\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Well, well … you have decided to read further …\nProfessionally, I am actually business oriented with a bachelor’s degree in business administration from the University of Applied Sciences, Koblenz (Germany), with a focus on foreign trade and marketing. During this time, I had the opportunity to spend an Erasmus semester at the Helsinki Business Polytechnic, Helsinki, Finland which was succeeded by the Haaga-Helia University of Applied Sciences in 2007. My thesis was a strategic marketing project about the implementation of a museum within a historic castle. Nevertheless, my first job after my bachelor’s degrees was as an Investor Relations Manager. Working for an agency, I was able to gain valuable experience in a short period of time advising publicly traded companies and their supervisory board members on investor relations and the organization of annual general meetings. One of these major events was the first public annual general meeting of the Deutsche Post AG at the Koeln Arena. Later, already in Paraguay, I decided to pursue a master’s degree, which ended with a business plan as my thesis (all in Spanish, of course). A little later, while searching for an alternative statistics program, I discovered the  statistical programming language. Since then, I have been fascinated by  and use it daily both professionally and academically.\nWithin my research, I usually concentrate on aspects of the social sciences that are relevant to Paraguayan society, such as street crime, social justice, the social economy, and gender inequality, as well as the effects of public policies in these areas. Occasionally, I incorporate public health into this work. I also contribute to the  community by developing (research) software such as the {concstats} package for measures of concentration, competition, and market structure in a given market. I’m also author and maintainer of the {pRycollection} package which contains datasets with enriched metadata about Paraguay for research and teaching.\nI’m also a Certified Expert in Enterprise Risk Management from the Frankfurt School of Finance and Management, Frankfurt (Germany). I’m also a registered expert in this field at the Supreme Court in Paraguay.\n\n\n\n\n\n\nNote\n\n\n\nIf you have questions about my work or are interested in collaborating, feel free to contact me. I’m always interested in discussing data science consulting or workshop offerings.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "contact.en.html",
+    "href": "contact.en.html",
+    "title": "Contact ",
+    "section": "",
+    "text": "You can use this form to contact me about speaking engagements, collaborations, teaching or simply to say hello.\nYou can contact me in English, Spanish or German.\n\n\n\n\n\n\n\n\n\n\n\n\nFull Name / First and Last Name \n\n\nEmail Address \n\n\nSubject \n\n\nMessage\n\n\n\nSend message / Enviar mensaje"
+  },
+  {
+    "objectID": "contact.en.html#contact-1",
+    "href": "contact.en.html#contact-1",
+    "title": "Contact ",
+    "section": "",
+    "text": "Full Name / First and Last Name \n\n\nEmail Address \n\n\nSubject \n\n\nMessage\n\n\n\nSend message / Enviar mensaje"
+  },
+  {
+    "objectID": "posts/2024-03-26-temperature-asu/en/index.html",
+    "href": "posts/2024-03-26-temperature-asu/en/index.html",
+    "title": "What heat! or What heat?",
+    "section": "",
+    "text": "TipTip for better analyzing the plots\n\n\n\nAll the graphs on this page are interactive, which means that if you hover your cursor or mouse over the graph, you can see the temperature for specific days.\n\n\nLately, there has been a lot of talk about the climate, climate change, and in Paraguay, about the heat or heat wave. With this material, I would like to contribute some quantitative data through an exploratory analysis. To this end, we will use the daily air temperature for Asunción from January 2016 to December 2023. All data is free and I obtained it from Visual Crossing.\nAlthough a somewhat more detailed exploratory analysis has been published elswhere, in this post, I would like to give a brief summary with a focus on interactive graphics.\n\n\n\n\n\n\n\nFigure 1: Temperatura promedio diaria\n\n\n\nPodemos observar en este grafico un promedio de la temperatura diaria alrededor de 23°C y una clara tendencia al alza a partir del año 2022.\nEn el siguiente grafico observamos la temperatura maxima diaria.\n\n\n\n\n\n\n\nFigure 2: Temperatura maxima diaria\n\n\n\nEl promedio de la temperatura maxima diaria llega a 29.3°C. Tambien con una tendencia al alza, pero no tan pronuciada.\nObservemos con más detalle la sensacion termica diaria (máxima) en una trama interactiva.\n\n\n\n\n\n\n\nFigure 3: Sensacion termica (max.) promedio diaria\n\n\n\nSin sorpresa, podemos observar el mismo patrón que en el grafico anterior. El promedio de la sensacion termica (max.) se encuentra alrededor de los 31°C, tambien con una tendencia al alza.\n\n\n\n Back to topReuseCC BY 4.0CitationBibTeX citation:@online{schneider2024,\n  author = {Schneider, Andreas},\n  title = {What Heat! Or {What} Heat?},\n  date = {2024-03-26},\n  url = {https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu/en},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSchneider, Andreas. 2024. “What Heat! Or What Heat?” March\n26, 2024. https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu/en."
+  },
+  {
+    "objectID": "posts/en.html",
+    "href": "posts/en.html",
+    "title": "Andreas Schneider",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEnglish\n\n\n\n\n\n\nMar 26, 2024\n\n\nAndreas Schneider\n\n4 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/en.html#posts-in-english",
+    "href": "posts/en.html#posts-in-english",
+    "title": "Andreas Schneider",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR\n\nBlogging\n\nGeneral interest\n\nEnglish\n\n\n\n\n\n\nMar 26, 2024\n\n\nAndreas Schneider\n\n4 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhat heat! or What heat?\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nQue calor! o Que calor?\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n\n\n\nNo matching items\n Back to topReuseCC BY 4.0"
   },
   {
     "objectID": "research/2019-Deterrence-theory/index.html",
@@ -242,6 +249,6 @@
     "href": "research/index.html",
     "title": "Publications",
     "section": "",
-    "text": "For more information use the following links:\n Github  ORCID  Google Schoolar\n\nUnderline indicates advisee; * graduate student, **undergraduate student\n\n\n\n\n\n\n\n\n\n\n\nThe impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022\n\n\nStudy evaluating the impact of public policies during the first lockdown on all-cause mortality in Paraguay.\n\n\n\nresearch\n\ncovid-19\n\nmortality\n\npublic policy\n\nenglish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nEl crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas\n\n\nStudy evaluating the impact of public policies during the first lockdown on streetcrime in two Latin American capitals.\n\n\n\nresearch\n\ncovid-19\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nconcstats: Market Structure, Concentration and Inequality Measures, with R\n\n\nResearch software to define market structures and concentration in a given market.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\nenglish\n\n\n\n\n\n\nSeptember 2023\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nKreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay\n\n\nStudy analyzing the market structure and competition of Paraguay’s large credit cooperatives.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\ngerman\n\n\n\n\n\n\nMarch 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDelitos de cuello blanco en Paraguay: Evidencias empíricas y predicción\n\n\nStudy analyzing and predicting white-collar crime in Paraguay with data from 2000 - 2018 and predicting the next year 2019.\n\n\n\nresearch\n\ncrime\n\nwhite collar crime\n\ntime series analysis\n\nspanish\n\n\n\n\n\n\nDecember 2020\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDeterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases\n\n\nStudy analyzing deterrence theory in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\ndeterrence theory\n\nwhite-collar crime\n\nenglish\n\n\n\n\n\n\nJanuary 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nAre their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016\n\n\nStudy analyzing white-collar crime in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\nwhite-collar crime\n\ntime series analysis\n\nenglish\n\n\n\n\n\n\nMay 2018\n\n\nAndreas Schneider\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "For more information use the following links:\n Github  ORCID  Google Schoolar\n\n\n\n\n\n\n\n\n\n\n\nThe impact of the COVID-19 pandemic on all-cause mortality in Paraguay: 2020 - 2022\n\n\nStudy evaluating the impact of public policies during the first lockdown on all-cause mortality in Paraguay.\n\n\n\nresearch\n\ncovid-19\n\nmortality\n\npublic policy\n\nenglish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nEl crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas\n\n\nStudy evaluating the impact of public policies during the first lockdown on streetcrime in two Latin American capitals.\n\n\n\nresearch\n\ncovid-19\n\ncriminology\n\npublic policy\n\nspanish\n\n\n\n\n\n\nDecember 2024\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nconcstats: Market Structure, Concentration and Inequality Measures, with R\n\n\nResearch software to define market structures and concentration in a given market.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\nenglish\n\n\n\n\n\n\nSeptember 2023\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nKreditgenossenschaften: Marktstruktur, Wettbewerb und Verhalten. Das Beispiel Paraguay\n\n\nStudy analyzing the market structure and competition of Paraguay’s large credit cooperatives.\n\n\n\nresearch\n\ncredit coops\n\nmarket structure\n\ncompetition\n\ngerman\n\n\n\n\n\n\nMarch 2022\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDelitos de cuello blanco en Paraguay: Evidencias empíricas y predicción\n\n\nStudy analyzing and predicting white-collar crime in Paraguay with data from 2000 - 2018 and predicting the next year 2019.\n\n\n\nresearch\n\ncrime\n\nwhite collar crime\n\ntime series analysis\n\nspanish\n\n\n\n\n\n\nDecember 2020\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nDeterrence Theory in Paraguay: Exploring Fraud and Violation of Trust Cases\n\n\nStudy analyzing deterrence theory in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\ndeterrence theory\n\nwhite-collar crime\n\nenglish\n\n\n\n\n\n\nJanuary 2019\n\n\nAndreas Schneider\n\n\n\n\n\n\n\nAre their collars still white? White-collar crime: Evidence from Paraguay 2000 - 2016\n\n\nStudy analyzing white-collar crime in Paraguay using fraud and violation of trust cases.\n\n\n\nresearch\n\ncrime\n\nwhite-collar crime\n\ntime series analysis\n\nenglish\n\n\n\n\n\n\nMay 2018\n\n\nAndreas Schneider\n\n\n\n\n\nNo matching items\n Back to top"
   }
 ]

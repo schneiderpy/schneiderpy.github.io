@@ -1,0 +1,145 @@
+---
+title: "What heat! or What heat?"
+description:
+ Daily temperature for Asuncion 2016-2023
+#author: Andreas Schneider
+date: 2024-03-26
+date-modified: today
+image: avg_daily_temp_asu.png
+#citation: true
+citation:
+  url: https:://aschneiderconsulting.com/posts/2024-3-26-temperature-asu/en
+lang: en
+categories:
+  - R
+  - Blogging
+  - General interest
+  - English
+#https://quarto.org/docs/authoring/appendices.html
+appendix-style: plain
+
+---
+
+::: {.callout-tip}
+## Tip for better analyzing the plots
+
+All the graphs on this page are interactive, which means that
+if you hover your cursor or mouse over the graph, you can see the temperature
+for specific days.
+:::
+
+Lately, there has been a lot of talk about the climate, climate change,
+and in Paraguay, about the heat or heat wave. With this material, I
+would like to contribute some quantitative data through an exploratory
+analysis. To this end, we will use the daily air temperature for
+Asunción from January 2016 to December 2023. All data is free and I
+obtained it from
+[Visual Crossing](https://www.visualcrossing.com/).   
+Although a somewhat more detailed exploratory analysis has been published
+[elswhere](https://www.linkedin.com/feed/update/urn:li:activity:7178418255764537344/),
+in this post, I would like to give a brief summary with a focus on
+interactive graphics.
+
+
+```{r}
+#| eval: true
+#| echo: false
+#| warning: false
+#| fig-align: left
+#| out-width: 100%
+#| fig-cap: Temperatura promedio diaria
+#| label: fig-1
+
+asu <- readRDS("asu.RDS") 
+library(ggplot2)
+p <- ggplot(data = asu, aes(x = datetime, y = temp)) + 
+  geom_line() +
+  geom_smooth(method = "loess", se = FALSE, colour = "red") +
+  geom_hline(yintercept = mean(asu$temp), linetype = 2, color = "blue") +
+  labs(y = "Daily temperature (°C)",
+       x = "Date",
+       title = "Average daily temperature for Asuncion (2016 - 2023)",
+       subtitle = "Promedio de la temperatura diaria para Asuncion",
+       caption = "Source: Schneider Consulting | Data: Visual Crossing") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank()
+  ) +
+  theme_classic()
+
+plotly::ggplotly(p)
+
+#knitr::include_graphics("avg_daily_temp_asu.png")
+```
+
+Podemos observar en este grafico un promedio de la temperatura diaria alrededor
+de 23°C y una clara tendencia al alza a partir del año 2022.   
+
+En el siguiente grafico observamos la temperatura maxima diaria.
+
+```{r}
+#| eval: true
+#| echo: false
+#| warning: false
+#| fig-align: left
+#| out-width: 100%
+#| fig-cap: Temperatura maxima diaria
+#| label: fig-2
+
+asu <- readRDS("asu.RDS") 
+library(ggplot2)
+p <- ggplot(data = asu, aes(x = datetime, y = tempmax)) + 
+  geom_line() +
+  geom_smooth(method = "loess", se = FALSE, colour = "red") +
+  geom_hline(yintercept = mean(asu$tempmax), linetype = 2, color = "blue") +
+  labs(y = "Daily max. temperature (°C)",
+       x = "Date",
+       title = "Daily max. temperature for Asuncion (2016 - 2023)",
+       subtitle = "Temperatura maxima diaria para Asuncion",
+       caption = "Source: Schneider Consulting | Data: Visual Crossing") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank()
+  ) +
+  theme_classic()
+
+plotly::ggplotly(p)
+```
+
+El promedio de la temperatura maxima diaria llega a 29.3°C. Tambien con una
+tendencia al alza, pero no tan pronuciada.
+
+Observemos con más detalle la sensacion termica diaria (máxima) en una
+trama interactiva.
+
+```{r}
+#| eval: true
+#| echo: false
+#| warning: false
+#| fig-align: left
+#| out-width: 100%
+#| fig-cap: Sensacion termica (max.) promedio diaria
+#| label: fig-3
+
+asu <- readRDS("asu.RDS") 
+library(ggplot2)
+p <- ggplot(data = asu, aes(x = datetime, y = feelslikemax)) + 
+  geom_line() +
+  geom_smooth(method = "loess", se = FALSE, colour = "red") +
+  geom_hline(yintercept = mean(asu$feelslikemax), linetype = 2, color = "blue") +
+  labs(y = "Max. temperature (°C)",
+       x = "Date",
+       title = "Daily feelslike max. temperature for Asuncion (2016 - 2023)",
+       subtitle = "Temperatura max. de la sensacion termica diaria para Asuncion",
+       caption = "Source: Schneider Consulting | Data: Visual Crossing") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank()
+  ) +
+  theme_classic()
+
+
+plotly::ggplotly(p)
+```
+
+Sin sorpresa, podemos observar el mismo patrón que en el grafico anterior. El
+promedio de la sensacion termica (max.) se encuentra alrededor de los 31°C,
+tambien con una tendencia al alza.
+

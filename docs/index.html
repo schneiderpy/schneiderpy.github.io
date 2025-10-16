@@ -96,8 +96,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -114,13 +114,32 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
-<span class="menu-text">Blog</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-posts" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Posts</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-posts">    
+        <li>
+    <a class="dropdown-item" href="./posts/index.html">
+ <span class="dropdown-text">All posts</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./posts/en.html">
+ <span class="dropdown-text">English</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./posts/es.html">
+ <span class="dropdown-text">Español</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./software/index.html"> 
 <span class="menu-text">Software</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.en.html"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -157,6 +176,10 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
   </a>
+  <a href="https://orcid.org/0000-0001-5630-1097" class="about-link" rel="" target="">
+    <i class="bi bi-person-circle"></i>
+     <span class="about-link-text">ORCID</span>
+  </a>
   <a href="https://scholar.google.com/citations?hl=en&amp;user=SfuAT-QAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" class="about-link" rel="" target="">
     <i class="bi bi-google scholar"></i>
      <span class="about-link-text">Google scholar</span>
@@ -164,17 +187,11 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>A little bit about me and my life.</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p>University of XYZ, City | Location | Sept 20XX - June 20XX</p>
-</section>
-<section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
-<p>Workplace | Job title | April 20XX - present</p>
+<p>Welcome to my professional and academic website!</p>
+<p>I am a researcher and management consultant who turned to data science after discovering and experiencing the immense benefits and value of data. I combine research skills and insights with management consulting for SMEs.</p>
+<p><a href="./about.html">Read further</a> if you are curious and want to know more …</p>
 
 
-</section>
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main></div>
 </div>
  <!-- /main -->
@@ -258,6 +275,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -575,7 +597,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright 2025 Andreas Schneider</p>
+<p>© 2025 Andreas Schneider</p>
 </div>   
     <div class="nav-footer-center">
 <p>Made with ❤️ and Quarto</p>

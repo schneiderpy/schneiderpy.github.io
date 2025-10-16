@@ -1,0 +1,20 @@
+---
+title: "Posts"
+listing:
+  - id: talks
+    contents: "**/*/index.qmd"
+    type: default
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    categories: cloud
+    sort-ui: true
+    filter-ui: true
+    page-size: 36     
+page-layout: full
+title-block-banner: false
+toc: true
+---
+
+
+::: {#posts}
+:::

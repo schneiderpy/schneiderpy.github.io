@@ -4,20 +4,9 @@
     "items": []
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/posts/es.html",
     "items": [
-      "/blog/second-post/index.html",
-      "/blog/first-post/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/es.html",
-    "items": []
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/2024-03-26-temperature-asu/index.html"
+      "/posts/2024-03-26-temperature-asu/es/index.html"
     ]
   },
   {
@@ -28,6 +17,29 @@
       "/conferences/2019_Ibero_VIII_Foro/index.html",
       "/conferences/2019_UPE_Conferencia/index.html",
       "/conferences/2019_MP_Conferencia/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/en.html",
+      "/posts/es.html",
+      "/posts/index.html",
+      "/posts/2024-03-26-temperature-asu/en/index.html",
+      "/posts/2024-03-26-temperature-asu/es/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/en.html",
+    "items": [
+      "/posts/2024-03-26-temperature-asu/en/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/2024-03-26-temperature-asu/en/index.html",
+      "/posts/2024-03-26-temperature-asu/es/index.html"
     ]
   },
   {

@@ -1,8 +1,9 @@
 ---
 title: "Conferences" 
 description: |
-  This is home for my research publications, each linked with<br>
-  accompanying preprints, posters, and/or news pieces.
+  This page contains certificates of refereed talks I have given in
+  private and public institutions.<br> These conference talks are primarily
+  disseminations of [research](../research/index.qmd) results.
 listing:
   contents: 
     - "**/*/index.qmd"

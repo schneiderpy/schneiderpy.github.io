@@ -2,11 +2,11 @@ project:
   type: website
   output-dir: docs              #defaults to _site
   
-  preview:
-    port: 22222
-    browser: true
-    watch-inputs: true
-    navigate: true
+  # preview:
+  #   port: 22222
+  #   browser: true
+  #   watch-inputs: true
+  #   navigate: true
   
 # Metadata stuff
 pagetitle: "{{< meta title >}} | Andreas Schneider"
@@ -34,22 +34,32 @@ website:
     #background: light
     foreground: "#ffffff"
     border: true
-    left: "Copyright 2025 Andreas Schneider" 
+    left: "© 2025 Andreas Schneider" 
     center: "Made with ❤️ and Quarto"
   navbar:
     right:
-      - text: Home
-        href: index.qmd
+      - text: About
+        href: about.qmd
+      # - text: Home
+      #   href: index.qmd
       - text: Research
         menu:
           - aria-label: Publications
           - href: research/index.qmd
           - aria-label: Conferences
           - href: conferences/index.qmd
-      - text: Blog
-        href: blog.qmd
+      - text: Posts
+        menu:
+          - text: All posts
+            href: posts/index.qmd
+          - text: English
+            href: posts/en.qmd
+          - text: Español
+            href: posts/es.qmd
       - text: Software
         href: software/index.qmd
+      - text: Contact
+        href: contact.en.qmd
         
     tools:
       - icon: github

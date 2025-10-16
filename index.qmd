@@ -15,20 +15,25 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/aschneiderpy/
+    - icon: person-circle
+      text: ORCID
+      href: https://orcid.org/0000-0001-5630-1097  
     - icon: google scholar
       text: Google scholar
       href: https://scholar.google.com/citations?hl=en&user=SfuAT-QAAAAJ&view_op=list_works&sortby=pubdate
-      
+
+format:
+  html:
+    link-external-newwindow: true
 
 ---
 
 
-A little bit about me and my life.
+Welcome to my professional and academic website!
 
-## Education
+I am a researcher and management consultant who turned to data science
+after discovering and experiencing the immense benefits and value of data.
+I combine research skills and insights with management consulting for SMEs.
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+[Read further](about.qmd) if you are curious and want to know more ...
 
-## Experience
-
-Workplace \| Job title \| April 20XX - present
