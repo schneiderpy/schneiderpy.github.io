@@ -1,0 +1,62 @@
+---
+title: "About(es)"
+format: html
+execute: 
+  echo: false
+  warning: false
+---
+
+Bueno, bueno... has decidido seguir leyendo...
+
+Profesionalmente, soy una persona orientada a los negocios, con una licenciatura
+en administración de empresas de la [University of Applied Sciences, Koblenz](https://www.hs-koblenz.com/university-of-applied-science-hochschule-koblenz)
+(Alemania), con especial énfasis en el comercio exterior y el marketing.
+Durante este tiempo, tuve la oportunidad de pasar un semestre Erasmus en
+la Escuela Politécnica de Negocios de Helsinki, Finlandia, al que siguió
+la [Haaga-Helia University of Applied Sciences](https://www.haaga-helia.fi/en)
+en el 2007.
+Mi tesis fue un proyecto de marketing estratégico sobre la implementación
+de un museo dentro de un castillo histórico. Sin embargo, mi primer
+trabajo después de graduarme en la universidad fue como
+*Investor Relations Manager* (Relaciones con Inversionistas).
+Al trabajar para una agencia, pude adquirir una valiosa experiencia en
+poco tiempo asesorando a empresas que cotizan en bolsa y a los miembros
+de sus consejos de supervisión sobre relaciones con los inversores y la
+organización de juntas generales anuales. Uno de estos grandes eventos
+fue la primera junta general anual pública de Deutsche Post AG en el
+Koeln Arena.
+Más tarde, ya en Paraguay, decidí cursar una maestría, que culminó con
+un plan de negocios como tesis (todo en español, por supuesto).
+Poco después, mientras buscaba un programa alternativo de estadística,
+descubrí el
+[{{< fa brands r-project >}}](https://www.r-project.org/about.html)
+lenguaje de programación estadística. Desde entonces, me fascina
+{{< fa brands r-project >}} y lo utilizo a diario tanto en el ámbito
+profesional como en el académico.
+
+Dentro de mi area de [investigación](research/index.qmd), Por lo general,
+me concentro en aspectos de las ciencias sociales que son relevantes para
+la sociedad paraguaya, como la delincuencia callejera, la justicia social,
+la economía social y la desigualdad de género, así como los efectos de
+las políticas públicas en estas áreas.
+En ocasiones, incorporo la salud pública en este trabajo.
+También contribuyo a la {{< fa brands r-project >}} comunidad mediante el
+desarrollo de software (de investigación) como el paquete
+[`{concstats}`](https://docs.ropensci.org/concstats/) de medidas de
+concentración, competencia y estructura de mercado en un mercado determinado.
+También soy autor y mantengo el paquete
+[`{pRycollection}`](https://schneiderpy.github.io/pRycollection/) que
+contiene conjuntos de datos con metadatos enriquecidos sobre Paraguay
+para la investigación y la enseñanza. 
+
+También soy experto certificado en gestión de riesgos empresariales por
+la [Frankfurt School of Finance and Management, Frankfurt](https://www.frankfurt-school.de/en/home) (Germany). También soy experto registrado en este materia ante la Corte Suprema de
+Justicia de Paraguay. 
+
+
+:::{.callout-note}
+Si tienes alguna pregunta sobre mi trabajo o estás interesado en colaborar,
+no dudes en [contactar](contact.es.qmd) conmigo. Siempre estoy interesado
+en hablar sobre consultoría en ciencia de datos u ofertas de talleres.
+
+:::

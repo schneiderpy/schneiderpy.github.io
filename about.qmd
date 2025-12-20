@@ -15,19 +15,22 @@ During this time, I had the opportunity to spend an Erasmus semester at
 the Helsinki Business Polytechnic, Helsinki, Finland which was succeeded
 by the [Haaga-Helia University of Applied Sciences](https://www.haaga-helia.fi/en) in 2007.
 My thesis was a strategic marketing project about the implementation of
-a museum within a historic castle. Nevertheless, my first job after my
-bachelor's degrees was as an *Investor Relations Manager*. Working for
-an agency, I was able to gain valuable experience in a short period of
-time advising publicly traded companies and their supervisory board
-members on investor relations and the organization of annual general
-meetings. One of these major events was the first public
-annual general meeting of the Deutsche Post AG at the Koeln Arena.
+a museum within a historic castle. Nevertheless, my first job after
+graduating from college was as an *Investor Relations Manager*.
+Working for an agency, I was able to gain valuable experience in a short
+period of time advising publicly traded companies and their supervisory
+board members on investor relations and the organization of annual
+general meetings. One of these major events was
+the first public annual general meeting of the Deutsche Post AG at the
+Koeln Arena.
 Later, already in Paraguay, I decided to pursue a master's degree, which
 ended with a business plan as my thesis (all in Spanish, of course).
-A little later, while searching for an
-alternative statistics program, I discovered the [{{< fa brands r-project >}}](https://www.r-project.org/about.html) statistical programming
-language. Since then, I have been fascinated by {{< fa brands r-project >}}
-and use it daily both professionally and academically.
+A little later, while searching for an alternative statistics program,
+I discovered the
+[{{< fa brands r-project >}}](https://www.r-project.org/about.html)
+statistical programming language. Since then, I have been fascinated by
+{{< fa brands r-project >}} and use it daily both professionally and
+academically.
 
 Within my [research](research/index.qmd), I usually concentrate on aspects
 of the social sciences that are relevant to Paraguayan society,
@@ -49,7 +52,7 @@ Court in Paraguay.
 
 :::{.callout-note}
 If you have questions about my work or are interested in collaborating,
-feel free to [contact](contact.en.qmd) me. I'm always interested in discussing
+feel free to [contact](contact.qmd) me. I'm always interested in discussing
 data science consulting or workshop offerings.
 
 :::

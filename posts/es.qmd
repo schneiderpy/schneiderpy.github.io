@@ -14,7 +14,7 @@ page-layout: full
 title-block-banner: false
 ---
 
-## Posts in English
+## Posts in Spanish
 
 ::: {#posts-es}
 :::

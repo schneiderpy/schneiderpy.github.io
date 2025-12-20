@@ -28,14 +28,15 @@ format:
 
 ---
 
-Lea esta página en [español](index.es.qmd)
+Read this site in [english](index.qmd)
 
 
-Welcome to my professional and academic website!
+¡Bienvenido a mi sitio web profesional y académico!
 
-I am a researcher and management consultant who turned to data science
-after discovering and experiencing the immense benefits and value of data.
-I combine research skills and insights with management consulting for SMEs.
+Soy investigador y consultor de gestión que se dedica a la ciencia de datos
+tras descubrir y experimentar los inmensos beneficios y el valor de los datos.
+Combino mis habilidades de investigación y mis conocimientos con la
+consultoría de gestión para pymes.
 
-[Read further](about.qmd) if you are curious and want to know more ...
+[Sigue leyendo](about.es.qmd) si tienes curiosidad y quieres saber más ...
 

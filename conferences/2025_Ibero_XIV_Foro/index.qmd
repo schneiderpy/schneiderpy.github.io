@@ -1,0 +1,22 @@
+---
+title: "El crimen callejero durante el COVID-19: una comparación retrospectiva de dos capitales latinoamericanas."
+subtitle: Research Forum, XIV Edition, Universidad Iberoamericana, Asuncion
+author: Andreas Schneider
+date: 2025-10-20
+image: featured.png
+categories:
+  - research 
+  - covid
+  - criminology
+  - public policy
+  - spanish
+
+links:
+- icon: pencil-fill
+  name: Related blog post
+  #url: https://publicaciones.sociales.uba.ar/index.php/revistaparaguay/article/view/9800
+toc: false 
+---
+
+## Description
+

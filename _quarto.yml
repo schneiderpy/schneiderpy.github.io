@@ -1,12 +1,21 @@
 project:
   type: website
   output-dir: docs              #defaults to _site
+  # render:
+  #   - index.qmd
+  #   - conferences/*.qmd
+  #   - research/*.qmd
+  #   - software/*.qmd
+  #   - posts/*.qmd
   
-  # preview:
-  #   port: 22222
-  #   browser: true
-  #   watch-inputs: true
-  #   navigate: true
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+  
+  # to generate babelquarto site use babelquarto::render_website()
+  # Preview the website with servr::httw("docs")
   
 # Metadata stuff
 pagetitle: "{{< meta title >}} | Andreas Schneider"
@@ -21,6 +30,14 @@ website:
   search:
     location: navbar
     type: overlay
+  # cookie-consent:
+  #   type: express
+  #   style: simple
+  #   palette: light
+  # prefs-text: "This site uses Google Analytics to analyse website traffic and improve your expirience of the site."
+  google-analytics:
+     tracking-id: "G-7XFKWH2BH0"
+     anonymize-ip: false 
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   # twitter-card:
   #   creator: "@aschneiderpy"
@@ -58,8 +75,7 @@ website:
             href: posts/es.qmd
       - text: Software
         href: software/index.qmd
-      - text: Contact
-        href: contact.en.qmd
+      - href: contact.qmd
         
     tools:
       - icon: github
@@ -75,5 +91,17 @@ format:
     reference-location: margin
     #footnotes-hover: true 
     
+# babelquarto:
+#   languagelinks: navbar
+#   languagecodes:
+#   - name: es
+#     text: "Español"
+#   - name: en
+#     text: "English"
+#   mainlanguage: 'en'
+#   languages: ['es']
+# title-es: "Andreas Schneider"
+# description-es: "Sitio web profesional y académico de Andreas Schneider."
+# author-es: "Andreas Schneider"
 
-
+lang: en
