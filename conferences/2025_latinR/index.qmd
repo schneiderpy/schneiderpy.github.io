@@ -1,0 +1,23 @@
+---
+title: "pRycollection: Diverse datasets from Paraguay"
+subtitle: "**LatinR 2025**, Conferencia Latinoamericana sobre uso de R en investigacion"
+author: Andreas Schneider
+date: 2025-12
+#slug: covid-crime
+image: featured.png
+categories:
+  - conference 
+  - research
+  - R
+  - software
+  - spanish
+
+links:
+- icon: file-richtext-fill
+  name: Publication
+  
+toc: false 
+---
+
+## Description
+
